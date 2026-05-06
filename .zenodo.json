@@ -1,0 +1,79 @@
+{
+  "title": "Thailand Canonical Administrative-Names Reference",
+  "description": "<p>A canonical reference dataset for Thailand's administrative divisions at all three levels: 77 provinces (ADM1), 928 districts (ADM2), and 7,436 subdistricts (ADM3). Each row carries cross-system identifiers (TIS-1099, ISO 3166-2, HASC, FIPS, Wikidata Q-ID, GeoNames ID, OSM relation ID, Wikipedia URL), normalized English and Thai names, computed geographic columns (centroids, areas, bounding boxes, distances, international borders, coastline lengths), and operational lookups (postal-code prefixes, telephone area codes, district and subdistrict counts).</p><p>The artifact composites four MIT-licensed upstream Thai-province repositories with explicit override rules, an audit-trailed override registry (one founding entry: Lopburi / Loburi), a historical-mappings registry (Bueng Kan / Nong Khai 2011 split), and a verified-establishment-year registry. Bundled GeoJSON polygons at all three administrative levels accompany the tabular outputs.</p><p>Validation discipline: 36 schema-and-consistency checks, 49 cross-level integrity checks, 54 mutation tests proving the validator catches deliberate errors, and three Wikipedia-attested verification reports (infobox area + centroid cross-check, alternates attestation, upstream drift detection). The full build pipeline reproduces byte-identically from cached upstream inputs via a single orchestrator script.</p><p>License: Creative Commons Attribution 4.0 International (CC BY 4.0) on the data tables and the methodology document; MIT on the build code and validator; layered upstream licenses on bundled polygon files (per-file documentation in NOTICE.md).</p>",
+  "creators": [
+    {
+      "name": "Reynolds, William J.",
+      "orcid": "0009-0005-1217-7465"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "keywords": [
+    "Thailand",
+    "administrative divisions",
+    "provinces",
+    "districts",
+    "subdistricts",
+    "TIS-1099",
+    "ISO 3166-2",
+    "HASC",
+    "FIPS PUB 10-4",
+    "Royal Thai General System of Transcription",
+    "RTGS",
+    "Royal Thai Survey Department",
+    "geographic data",
+    "GeoJSON",
+    "reference data",
+    "gazetteer",
+    "open data"
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/thailand-geography-data/thailand-geography-json",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/kongvut/thai-province-data",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/GeoThai/data",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/piyayut-ch/mapthai",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/pmdscully/thailand_province_border_adjacency",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://data.humdata.org/dataset/cod-ab-tha",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Methodology document is published in the same artifact as methodology-v1.0.0.pdf. Per-file licensing detail is in NOTICE.md at the repository root."
+}
