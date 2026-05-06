@@ -1,10 +1,21 @@
 # Thailand Canonical Administrative-Names Reference
 
-> Canonical English and Thai names for Thailand's 77 provinces, with TIS-1099 codes, ISO 3166-2 codes, alternates, capitals, regions, established years, centroids, and a documented override rule. Published with a methodology PDF and a Zenodo DOI under CC BY 4.0.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20049931.svg)](https://doi.org/10.5281/zenodo.20049931)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT (code)](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 
-**Status:** Pre-release foundation, working toward v1.0.0 in Q3 2026.
+> Canonical English and Thai administrative names for Thailand at all three levels (77 provinces, 928 districts, 7,436 subdistricts), with TIS-1099 codes, ISO 3166-2 codes, alternates, capitals, regions, verified establishment years, polygon-derived geographic columns, and a documented override registry with a per-row audit trail. Published with a 36-page methodology PDF and bundled GeoJSON polygons.
+
+**Status:** v1.0.0 released ([Zenodo DOI](https://doi.org/10.5281/zenodo.20049931)).
 **Maintainer:** William J. Reynolds ([ORCID: 0009-0005-1217-7465](https://orcid.org/0009-0005-1217-7465))
 **License:** CC BY 4.0 on the data and methodology. MIT on the build code.
+
+## Citation
+
+```
+Reynolds, W. J. (2026). Thailand Canonical Administrative-Names Reference (v1.0.0)
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.20049931
+```
 
 ---
 
