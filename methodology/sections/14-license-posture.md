@@ -15,7 +15,7 @@ The artifact uses three licenses across its file types: Creative Commons Attribu
 | `mapthai`-derived GeoJSON files (bundled at all three ADM levels) | CC BY 3.0 IGO (under OCHA CODs) | Inherits OCHA Common Operational Datasets license; not relicensed by this artifact. |
 | HDX RTSD shapefiles (bundled) | CC BY 3.0 IGO under OCHA CODs framework | Original publication license preserved. |
 
-**Why CC BY 4.0 on the data, not TLI's CC BY-NC 4.0.** The Thailand Livability Index (TLI) scored dataset is licensed CC BY-NC 4.0 with a separate commercial license (Reynolds, 2026b). The canonical-names artifact diverges from that posture and uses CC BY 4.0 (no NC clause) for two main reasons. First, the artifact is community infrastructure rather than the TLI scored dataset; adoption is the primary success metric, and commercial gating would defeat that. Second, reference-data licenses in this genre are permissive (ISO 3166-2 community releases, GeoNames, pycountry); locking commercial reuse out would push commercial adopters back to private lists, which is the problem this artifact addresses. The methodology PDF and the Zenodo deposit metadata both name the deviation explicitly so downstream consumers understand the divergence from TLI's main dataset license.
+**Why CC BY 4.0 on the data.** Reference-data licenses in this genre are permissive (ISO 3166-2 community releases, GeoNames, pycountry). Locking commercial reuse out would push commercial adopters back to private lists, which is the gap this artifact addresses. The CC BY 4.0 posture preserves the citation requirement (which surfaces back to the methodology and override registry) while removing the commercial-gating barrier that would defeat adoption.
 
 **MIT on build code, CC BY 4.0 on data.** Mixed-license repositories are conventional. Code under MIT permits forking and reuse without burden; data under CC BY 4.0 requires attribution but permits commercial use. The repository's `LICENSE` file resolves to MIT for code; the `LICENSE-DATA` file specifies CC BY 4.0 for data and methodology; the `NOTICE.md` file consolidates per-file license claims and upstream attribution chains.
 
@@ -27,8 +27,8 @@ A downstream consumer using the artifact in a commercial product would, at minim
 
 | What they used | License obligation |
 |---|---|
-| Data tables (CSV / Parquet) | Cite the artifact (Reynolds, 2026a) per CC BY 4.0; indicate any modifications; link to the license. |
-| Methodology document | Cite the methodology document (Reynolds, 2026a) per CC BY 4.0; indicate any modifications. |
+| Data tables (CSV / Parquet) | Cite the artifact per CC BY 4.0 using the Zenodo deposit DOI; indicate any modifications; link to the license. |
+| Methodology document | Cite the methodology document per CC BY 4.0 using the Zenodo deposit DOI; indicate any modifications. |
 | Build script | Preserve the MIT copyright notice and license text in derivative tools. |
 | `mapthai`-derived GeoJSON polygons | Attribute OCHA, `mapthai` (Chitchumnong, n.d.), and Natural Earth where applicable. Comply with CC BY 3.0 IGO. |
 | HDX RTSD shapefiles | Attribute the Royal Thai Survey Department and OCHA. Comply with CC BY 3.0 IGO. |

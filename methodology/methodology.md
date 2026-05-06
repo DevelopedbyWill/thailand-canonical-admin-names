@@ -6,7 +6,7 @@ author:
   - "ORCID: 0009-0005-1217-7465"
 date: "v1.0.0 — Q3 2026 (target)"
 abstract: |
-  This document specifies the methodology behind the Thailand Canonical Administrative-Names Reference, a CC BY 4.0 dataset of Thailand's administrative divisions at all three levels (77 provinces, 928 districts, 7,436 subdistricts). The artifact ships cross-system identifiers, normalized English and Thai names, an override registry with audit trail, and computed geographic columns. It composites four MIT-licensed upstream Thai-province repositories with reconciliation rules, override resolution, and validation against published government totals. Bundled polygon geometries (GeoJSON at all three levels) accompany the tabular outputs. The release sits upstream of the Thailand Livability Index (TLI) and is intended as community infrastructure for the broader Thai data-engineering and academic-research community.
+  This document specifies the methodology behind the Thailand Canonical Administrative-Names Reference, a CC BY 4.0 dataset of Thailand's administrative divisions at all three levels (77 provinces, 928 districts, 7,436 subdistricts). The artifact ships cross-system identifiers, normalized English and Thai names, an override registry with audit trail, and computed geographic columns. It composites four MIT-licensed upstream Thai-province repositories with reconciliation rules, override resolution, and validation against published government totals. Bundled polygon geometries (GeoJSON at all three levels) accompany the tabular outputs. The release is intended as community infrastructure for the broader Thai data-engineering and academic-research community.
 toc: true
 toc-depth: 2
 numbersections: false
@@ -112,18 +112,12 @@ toccolor: "black"
 
 \newpage
 
-# 16. TLI dependency disclosure
-
-::SECTION_16::
-
-\newpage
-
-# 17. Limitations
+# 16. Limitations
 
 ::SECTION_17::
 
 \newpage
 
-# 18. References
+# 17. References
 
 ::SECTION_18::

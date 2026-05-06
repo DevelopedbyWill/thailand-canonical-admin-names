@@ -38,6 +38,6 @@ Phuket end-to-end identifier resolution at v1.0:
 | `wikidata_qid` | `Q182565` | Wikidata SPARQL `?p wdt:P31 wd:Q50198. ?p wdt:P300 "TH-83"` returns `Q182565` |
 | `geonames_id` | 1151253 | GeoNames admin1 row `TH.62` → `geonameid = 1151253`. Joined via FIPS `TH62` |
 | `osm_relation_id` | 2934604 | Nominatim search `Phuket Province, Thailand` → first relation result, `osm_id = 2934604` |
-| `wikipedia_article_url` | `https://en.wikipedia.org/wiki/Phuket_province` | Wikipedia query `Phuket province` with redirects enabled returns canonical title `Phuket province` |
+| `wikipedia_article_url` | `en.wikipedia.org/wiki/Phuket_province` | Wikipedia query `Phuket province` with redirects enabled returns canonical title `Phuket province` |
 
 The chain is fully deterministic. Re-running the build script offline against the cached inputs produces the same eight values for TIS-83.

@@ -47,6 +47,6 @@ methodology/build/methodology-v*-pdf.md
 # Smoke-test working directory (uses /tmp by default; safety belt)
 data/v*/*_smoke_snapshot/
 
-# Internal workstream brief (contains TLI strategy references)
+# Internal workstream brief (maintainer-only planning notes)
 00-workstream-brief.md
 methodology/outline.md

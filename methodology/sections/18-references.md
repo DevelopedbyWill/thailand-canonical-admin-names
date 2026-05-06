@@ -30,12 +30,6 @@ PyProj contributors. (n.d.). *PyProj: Python interface to PROJ (cartographic pro
 
 PyThaiNLP. (2024). *PyThaiNLP: Thai Natural Language Processing in Python* [Software]. https://github.com/PyThaiNLP/pythainlp
 
-Reynolds, W. J. (2026a). *Thailand Livability Index — DOPA-WorldPop cross-validation finding* [Decision memo]. ORCID 0009-0005-1217-7465.
-
-Reynolds, W. J. (2026b). *Thailand Livability Index — Public-dataset licensing strategy* [Decision memo]. ORCID 0009-0005-1217-7465.
-
-Reynolds, W. J. (2026c). *Thailand Canonical Administrative-Names Reference — Workstream Brief* [Decision memo]. ORCID 0009-0005-1217-7465.
-
 Royal Society of Thailand. (n.d.). *Royal Thai General System of Transcription*. http://www.royin.go.th/
 
 Sangkla, K. (2025). *thai-province-data: Province, district, and subdistrict data of Thailand* [Data set]. https://github.com/kongvut/thai-province-data

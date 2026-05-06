@@ -52,9 +52,9 @@ def strip_top_heading(text: str) -> str:
 def compose() -> str:
     template = TEMPLATE.read_text(encoding="utf-8")
     section_files = sorted(SECTIONS.glob("*.md"))
-    if len(section_files) != 18:
+    if len(section_files) not in (17, 18):
         raise SystemExit(
-            f"expected 18 section files, found {len(section_files)} in {SECTIONS}"
+            f"expected 17 or 18 section files, found {len(section_files)} in {SECTIONS}"
         )
     for path in section_files:
         m = re.match(r"^(\d{2})-", path.name)
@@ -112,9 +112,9 @@ def main() -> int:
         engine = "xelatex" if have_engine("xelatex") else "pdflatex"
 
         # Locate the IBM Plex Sans Thai font file. Bundled in the repo at
-        # methodology/fonts/ for reproducibility; falls back to the parent
-        # TLI design-system copy when this script runs inside the TLI
-        # workspace (private dev environment).
+        # methodology/fonts/ for reproducibility; falls back to a parent
+        # design-system copy when running inside the maintainer's local
+        # development environment.
         candidates = [
             METH / "fonts" / "IBMPlexSansThai-Regular.ttf",
             ROOT.parent / "04-phase-4-design/01-claude-design-handoff/project/fonts/IBMPlexSansThai-Regular.ttf",

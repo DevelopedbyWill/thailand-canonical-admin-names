@@ -4,7 +4,6 @@
 
 **Status:** Pre-release foundation, working toward v1.0.0 in Q3 2026.
 **Maintainer:** William J. Reynolds ([ORCID: 0009-0005-1217-7465](https://orcid.org/0009-0005-1217-7465))
-**Part of:** [Thailand Livability Index (TLI)](https://thailand-livability-index.com)
 **License:** CC BY 4.0 on the data and methodology. MIT on the build code.
 
 ---
@@ -131,4 +130,3 @@ Found a spelling that should be reconsidered, an alternate to add, or a boundary
 
 ## See also
 
-- [Thailand Livability Index (TLI)](https://thailand-livability-index.com) — the project this artifact is part of (CC BY-NC 4.0 dataset, separate license posture per the methodology PDF rationale)
