@@ -6,7 +6,7 @@
 
 > Canonical English and Thai administrative names for Thailand at all three levels (77 provinces, 928 districts, 7,436 subdistricts), with TIS-1099 codes, ISO 3166-2 codes, alternates, capitals, regions, verified establishment years, polygon-derived geographic columns, and a documented override registry with a per-row audit trail. Published with a 36-page methodology PDF and bundled GeoJSON polygons.
 
-**Status:** v1.0.1 released ([Zenodo DOI](https://doi.org/10.5281/zenodo.20049930)).
+**Status:** v1.0.2 released ([Zenodo DOI](https://doi.org/10.5281/zenodo.20049930)).
 **Maintainer:** William J. Reynolds ([ORCID: 0009-0005-1217-7465](https://orcid.org/0009-0005-1217-7465))
 **License:** CC BY 4.0 on the data and methodology. MIT on the build code.
 
@@ -39,7 +39,7 @@ This artifact composites those upstream sources, layers the methodology, and pub
 
 ## Schema
 
-The artifact ships at three administrative levels (ADM1 / ADM2 / ADM3). Each level is its own CSV and Parquet file plus a bundled GeoJSON polygon file. Cross-level joins use the parent-code columns. Full per-column documentation lives in [Section 4 of the methodology PDF](methodology/build/methodology-v1.0.1.pdf).
+The artifact ships at three administrative levels (ADM1 / ADM2 / ADM3). Each level is its own CSV and Parquet file plus a bundled GeoJSON polygon file. Cross-level joins use the parent-code columns. Full per-column documentation lives in [Section 4 of the methodology PDF](methodology/build/methodology-v1.0.2.pdf).
 
 ### ADM1 — 77 provinces, 36 columns
 
@@ -54,6 +54,8 @@ The richest schema. Cross-system identifiers, names, geography, and operational 
 | Adjacency | `neighbors`, `has_international_border`, `bordering_countries`, `is_coastal`, `coastline_length_km` |
 | Operational | `postal_code_prefixes`, `telephone_area_codes`, `num_amphoe`, `num_tambon` |
 | Edge cases | `notes` |
+
+> **Coverage note:** `osm_relation_id` is populated for 76 of 77 ADM1 rows; Phangnga (TIS-82) ships empty pending community correction. `predecessor_tis1099_code` is populated for 4 of 77 ADM1 rows (the CONFIRMED-established subset: Yasothon, Bueng Kan, Mukdahan, Phayao). Empty cells are documented gaps, not assertions of completeness — see [Section 17 of the methodology PDF](methodology/build/methodology-v1.0.2.pdf) for the full coverage table and the verification-upgrade path for the three PARTIAL-grade splits in the backlog.
 
 ### ADM2 — 928 districts, 14 columns
 
@@ -87,8 +89,8 @@ Polygons are derived from `mapthai` (OCHA CODs lineage). The authoritative HDX R
 
 ### Methodology and verification
 
-- `methodology/build/methodology-v1.0.1.pdf` — full methodology, 18 sections, 36 pages
-- `methodology/build/methodology-v1.0.1.docx` — Word version of the same document
+- `methodology/build/methodology-v1.0.2.pdf` — full methodology, 18 sections, 36 pages
+- `methodology/build/methodology-v1.0.2.docx` — Word version of the same document
 - `data/v1.0.0/wikipedia_infobox_verification_report.md` — area + centroid cross-check against Wikipedia infoboxes (73 of 77 within ±10%)
 - `data/v1.0.0/alternates_wikipedia_attestation_report.md` — alternates verified against Wikipedia (58 of 71 attested)
 - `data/v1.0.0/enrichment_verification_report.md` — eight enrichment-spot-check suites
@@ -103,7 +105,7 @@ Polygons are derived from `mapthai` (OCHA CODs lineage). The authoritative HDX R
 import pandas as pd
 
 # Read directly from the GitHub release.
-url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.1"
+url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.2"
 
 provinces = pd.read_csv(
     f"{url}/thailand-adm1-provinces-v1.0.0.csv",
@@ -119,7 +121,7 @@ joined = your_data.merge(provinces, left_on="province_code", right_on="tis1099_c
 
 ```python
 import pandas as pd
-url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.1"
+url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.2"
 provinces = pd.read_parquet(f"{url}/thailand-adm1-provinces-v1.0.0.parquet")
 districts = pd.read_parquet(f"{url}/thailand-adm2-districts-v1.0.0.parquet")
 subdistricts = pd.read_parquet(f"{url}/thailand-adm3-subdistricts-v1.0.0.parquet")
@@ -135,7 +137,7 @@ SELECT
     region,
     area_km2,
     distance_to_bangkok_km
-FROM 'https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.1/thailand-adm1-provinces-v1.0.0.parquet'
+FROM 'https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.2/thailand-adm1-provinces-v1.0.0.parquet'
 WHERE region = 'Northeast'
 ORDER BY area_km2 DESC;
 ```
@@ -144,7 +146,7 @@ ORDER BY area_km2 DESC;
 
 ```python
 import geopandas as gpd
-url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.1"
+url = "https://github.com/ReynoldsWJ55/thailand-canonical-admin-names/releases/download/v1.0.2"
 provinces_geo = gpd.read_file(f"{url}/thailand-adm1-polygons-v1.0.0.geojson")
 provinces_geo.plot(column="name_en_canonical", legend=False)
 ```
@@ -187,7 +189,7 @@ This artifact composites tabular data from five MIT-licensed repositories, ident
 - [HDX Royal Thai Survey Department dataset](https://data.humdata.org/dataset/cod-ab-tha) — authoritative Thai-government polygons; linked rather than bundled because the smallest distribution exceeds 175 MB compressed
 - [Natural Earth `ne_50m_admin_0_countries`](https://github.com/nvkelso/natural-earth-vector) — neighbor-country polygons used to compute international-border and coastal flags
 
-Per-source license, snapshot date, and contribution detail live in `methodology/build/methodology-v1.0.1.pdf` (Section 3) and `NOTICE.md`.
+Per-source license, snapshot date, and contribution detail live in `methodology/build/methodology-v1.0.2.pdf` (Section 3) and `NOTICE.md`.
 
 ## Corrections and contributions
 
@@ -201,7 +203,7 @@ Found a spelling that should be reconsidered, an alternate to add, or a boundary
 
 ## See also
 
-- [Methodology PDF](methodology/build/methodology-v1.0.1.pdf) — full 36-page document covering 18 sections from input sources through limitations, with worked examples for the override rule (Lopburi / Loburi), capital normalization (Phrae), cross-system identifier resolution (Phuket), and the community-correction flow.
+- [Methodology PDF](methodology/build/methodology-v1.0.2.pdf) — full 36-page document covering 18 sections from input sources through limitations, with worked examples for the override rule (Lopburi / Loburi), capital normalization (Phrae), cross-system identifier resolution (Phuket), and the community-correction flow.
 - [NOTICE.md](NOTICE.md) — per-file license attribution and upstream-source acknowledgments.
 - [CHANGELOG.md](CHANGELOG.md) — release history and what changed between versions.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — issue templates, pull-request format, and corrections workflow.
