@@ -1,0 +1,18 @@
+{
+  "head" : {
+    "vars" : [ "bkk", "coord" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "bkk" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1861"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.516666666 13.75)"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Working / temporary
+*.tmp
+*.bak
+.cache/
+.pytest_cache/
+
+# Local-development scratch
+scratch/
+notebooks/
+
+# Do NOT ignore the cached upstream inputs at data/inputs/ — they are part of
+# the build's reproducibility guarantee and must be tracked. The .gitignore
+# entries above target editor/OS/Python detritus, not project content.
+
+# Build intermediates (regeneratable via bin/build_methodology.py)
+methodology/build/_thai_header.tex
+methodology/build/_thai_fallback.tex
+methodology/build/methodology-v*-pdf.md
+
+# Smoke-test working directory (uses /tmp by default; safety belt)
+data/v*/*_smoke_snapshot/
+
+# Internal workstream brief (contains TLI strategy references)
+00-workstream-brief.md
+methodology/outline.md

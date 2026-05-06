@@ -1,0 +1,18 @@
+# Build- and test-time dependencies for the Thailand Canonical Administrative-Names Reference.
+# Pinned to the versions used to produce v1.0.0 outputs (smoke-tested 2026-05-06).
+# pandas + fastparquet are the canonical Parquet writer; pyarrow is intentionally
+# avoided because it requires more disk space than the typical CI runner provides.
+
+# Core build pipeline
+pandas==2.3.3
+shapely==2.1.2
+pyproj==3.7.1
+numpy==2.2.6
+
+# Parquet I/O (lighter alternative to pyarrow)
+fastparquet==2026.3.0
+cramjam==2.11.0
+fsspec==2026.4.0
+
+# Methodology PDF compile (system pandoc + xelatex still required separately)
+# No Python packages; pandoc is a binary dependency.

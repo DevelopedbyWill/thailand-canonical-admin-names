@@ -1,0 +1,772 @@
+{
+  "10": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Bangkok",
+    "iso_subdivision_type": "Special Administrative Area",
+    "wikidata_qid": "Q1861",
+    "area_rai": 1072812.5,
+    "distance_to_bangkok_km": 0.0,
+    "postal_code_prefixes": "10",
+    "num_amphoe": 50,
+    "num_tambon": 180
+  },
+  "11": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Samut_Prakan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q271529",
+    "area_rai": 512000.0,
+    "distance_to_bangkok_km": 21.3,
+    "postal_code_prefixes": "10",
+    "num_amphoe": 6,
+    "num_tambon": 50
+  },
+  "12": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nonthaburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q242932",
+    "area_rai": 395750.0,
+    "distance_to_bangkok_km": 31.0,
+    "postal_code_prefixes": "11",
+    "num_amphoe": 6,
+    "num_tambon": 52
+  },
+  "13": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q459748",
+    "area_rai": 968125.0,
+    "distance_to_bangkok_km": 34.4,
+    "postal_code_prefixes": "12",
+    "num_amphoe": 7,
+    "num_tambon": 60
+  },
+  "14": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phra_Nakhon_Si_Ayutthaya_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q476222",
+    "area_rai": 1560500.0,
+    "distance_to_bangkok_km": 64.6,
+    "postal_code_prefixes": "13",
+    "num_amphoe": 16,
+    "num_tambon": 209
+  },
+  "15": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Ang_Thong_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q243795",
+    "area_rai": 591625.0,
+    "distance_to_bangkok_km": 99.1,
+    "postal_code_prefixes": "14",
+    "num_amphoe": 7,
+    "num_tambon": 73
+  },
+  "16": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Lopburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q336122",
+    "area_rai": 4075625.0,
+    "distance_to_bangkok_km": 151.9,
+    "postal_code_prefixes": "13|15|18",
+    "num_amphoe": 11,
+    "num_tambon": 124
+  },
+  "17": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Sing_Buri_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q334836",
+    "area_rai": 504687.5,
+    "distance_to_bangkok_km": 130.9,
+    "postal_code_prefixes": "16",
+    "num_amphoe": 6,
+    "num_tambon": 43
+  },
+  "18": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chai_Nat_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q459759",
+    "area_rai": 1529750.0,
+    "distance_to_bangkok_km": 164.7,
+    "postal_code_prefixes": "17",
+    "num_amphoe": 8,
+    "num_tambon": 53
+  },
+  "19": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Saraburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q337627",
+    "area_rai": 2235437.5,
+    "distance_to_bangkok_km": 104.4,
+    "postal_code_prefixes": "18",
+    "num_amphoe": 13,
+    "num_tambon": 111
+  },
+  "20": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chonburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q207068",
+    "area_rai": 2787250.0,
+    "distance_to_bangkok_km": 88.1,
+    "postal_code_prefixes": "20",
+    "num_amphoe": 11,
+    "num_tambon": 92
+  },
+  "21": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Rayong_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q335221",
+    "area_rai": 2340500.0,
+    "distance_to_bangkok_km": 132.8,
+    "postal_code_prefixes": "21|22",
+    "num_amphoe": 8,
+    "num_tambon": 58
+  },
+  "22": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chanthaburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q327730",
+    "area_rai": 4121000.0,
+    "distance_to_bangkok_km": 189.8,
+    "postal_code_prefixes": "22",
+    "num_amphoe": 10,
+    "num_tambon": 76
+  },
+  "23": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Trat_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q241884",
+    "area_rai": 1669000.0,
+    "distance_to_bangkok_km": 258.3,
+    "postal_code_prefixes": "23",
+    "num_amphoe": 7,
+    "num_tambon": 38
+  },
+  "24": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chachoengsao_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q334906",
+    "area_rai": 3253875.0,
+    "distance_to_bangkok_km": 88.7,
+    "postal_code_prefixes": "24",
+    "num_amphoe": 11,
+    "num_tambon": 93
+  },
+  "25": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Prachinburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q321324",
+    "area_rai": 3055937.5,
+    "distance_to_bangkok_km": 115.6,
+    "postal_code_prefixes": "25",
+    "num_amphoe": 7,
+    "num_tambon": 65
+  },
+  "26": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Nayok_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q466212",
+    "area_rai": 1360750.0,
+    "distance_to_bangkok_km": 77.2,
+    "postal_code_prefixes": "26",
+    "num_amphoe": 4,
+    "num_tambon": 41
+  },
+  "27": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Sa_Kaeo_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q381889",
+    "area_rai": 4156812.5,
+    "distance_to_bangkok_km": 183.4,
+    "postal_code_prefixes": "27",
+    "num_amphoe": 9,
+    "num_tambon": 59
+  },
+  "30": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q271737",
+    "area_rai": 12967875.0,
+    "distance_to_bangkok_km": 207.4,
+    "postal_code_prefixes": "30|36",
+    "num_amphoe": 32,
+    "num_tambon": 289
+  },
+  "31": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Buriram_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q327510",
+    "area_rai": 6204125.0,
+    "distance_to_bangkok_km": 275.8,
+    "postal_code_prefixes": "31",
+    "num_amphoe": 23,
+    "num_tambon": 189
+  },
+  "32": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Surin_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q380757",
+    "area_rai": 5589437.5,
+    "distance_to_bangkok_km": 349.0,
+    "postal_code_prefixes": "32",
+    "num_amphoe": 17,
+    "num_tambon": 159
+  },
+  "33": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Sisaket_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q380761",
+    "area_rai": 5688125.0,
+    "distance_to_bangkok_km": 421.4,
+    "postal_code_prefixes": "33",
+    "num_amphoe": 22,
+    "num_tambon": 206
+  },
+  "34": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Ubon_Ratchathani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q629024",
+    "area_rai": 9604937.5,
+    "distance_to_bangkok_km": 507.9,
+    "postal_code_prefixes": "34",
+    "num_amphoe": 25,
+    "num_tambon": 219
+  },
+  "35": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Yasothon_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q506598",
+    "area_rai": 2570500.0,
+    "distance_to_bangkok_km": 463.6,
+    "postal_code_prefixes": "35",
+    "num_amphoe": 9,
+    "num_tambon": 79
+  },
+  "36": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chaiyaphum_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q275377",
+    "area_rai": 7850812.5,
+    "distance_to_bangkok_km": 282.6,
+    "postal_code_prefixes": "36",
+    "num_amphoe": 16,
+    "num_tambon": 124
+  },
+  "37": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Amnat_Charoen_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q243791",
+    "area_rai": 1954125.0,
+    "distance_to_bangkok_km": 502.1,
+    "postal_code_prefixes": "37",
+    "num_amphoe": 7,
+    "num_tambon": 56
+  },
+  "38": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Bueng_Kan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q1001862",
+    "area_rai": 2480312.5,
+    "distance_to_bangkok_km": 589.2,
+    "postal_code_prefixes": "38",
+    "num_amphoe": 8,
+    "num_tambon": 53
+  },
+  "39": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nong_Bua_Lamphu_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q261241",
+    "area_rai": 2544250.0,
+    "distance_to_bangkok_km": 420.5,
+    "postal_code_prefixes": "39",
+    "num_amphoe": 6,
+    "num_tambon": 59
+  },
+  "40": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Khon_Kaen_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q327533",
+    "area_rai": 6626000.0,
+    "distance_to_bangkok_km": 360.4,
+    "postal_code_prefixes": "40",
+    "num_amphoe": 26,
+    "num_tambon": 199
+  },
+  "41": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Udon_Thani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q380752",
+    "area_rai": 6937437.5,
+    "distance_to_bangkok_km": 471.7,
+    "postal_code_prefixes": "41",
+    "num_amphoe": 20,
+    "num_tambon": 156
+  },
+  "42": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Loei_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q275388",
+    "area_rai": 6637187.5,
+    "distance_to_bangkok_km": 418.9,
+    "postal_code_prefixes": "42",
+    "num_amphoe": 14,
+    "num_tambon": 90
+  },
+  "43": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nong_Khai_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q327737",
+    "area_rai": 2147562.5,
+    "distance_to_bangkok_km": 521.0,
+    "postal_code_prefixes": "43",
+    "num_amphoe": 9,
+    "num_tambon": 62
+  },
+  "44": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Maha_Sarakham_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q468554",
+    "area_rai": 3659937.5,
+    "distance_to_bangkok_km": 368.2,
+    "postal_code_prefixes": "44",
+    "num_amphoe": 13,
+    "num_tambon": 133
+  },
+  "45": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Roi_Et_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q625463",
+    "area_rai": 4838250.0,
+    "distance_to_bangkok_km": 418.7,
+    "postal_code_prefixes": "45",
+    "num_amphoe": 20,
+    "num_tambon": 193
+  },
+  "46": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Kalasin_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q382144",
+    "area_rai": 4164687.5,
+    "distance_to_bangkok_km": 451.2,
+    "postal_code_prefixes": "46",
+    "num_amphoe": 18,
+    "num_tambon": 135
+  },
+  "47": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Sakon_Nakhon_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q382125",
+    "area_rai": 6005687.5,
+    "distance_to_bangkok_km": 528.5,
+    "postal_code_prefixes": "47",
+    "num_amphoe": 18,
+    "num_tambon": 125
+  },
+  "48": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Phanom_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q468547",
+    "area_rai": 3359875.0,
+    "distance_to_bangkok_km": 572.8,
+    "postal_code_prefixes": "48",
+    "num_amphoe": 12,
+    "num_tambon": 99
+  },
+  "49": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Mukdahan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q335119",
+    "area_rai": 2616187.5,
+    "distance_to_bangkok_km": 520.1,
+    "postal_code_prefixes": "49",
+    "num_amphoe": 7,
+    "num_tambon": 53
+  },
+  "50": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chiang_Mai_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q233588",
+    "area_rai": 14023875.0,
+    "distance_to_bangkok_km": 595.1,
+    "postal_code_prefixes": "50|58",
+    "num_amphoe": 25,
+    "num_tambon": 204
+  },
+  "51": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Lamphun_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q240540",
+    "area_rai": 2739375.0,
+    "distance_to_bangkok_km": 515.3,
+    "postal_code_prefixes": "51",
+    "num_amphoe": 8,
+    "num_tambon": 51
+  },
+  "52": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Lampang_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q240495",
+    "area_rai": 7920375.0,
+    "distance_to_bangkok_km": 520.9,
+    "postal_code_prefixes": "52",
+    "num_amphoe": 13,
+    "num_tambon": 100
+  },
+  "53": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Uttaradit_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q273794",
+    "area_rai": 4950812.5,
+    "distance_to_bangkok_km": 443.3,
+    "postal_code_prefixes": "53",
+    "num_amphoe": 9,
+    "num_tambon": 67
+  },
+  "54": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phrae_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244652",
+    "area_rai": 4070437.5,
+    "distance_to_bangkok_km": 495.7,
+    "postal_code_prefixes": "54",
+    "num_amphoe": 8,
+    "num_tambon": 78
+  },
+  "55": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244698",
+    "area_rai": 7465812.5,
+    "distance_to_bangkok_km": 565.5,
+    "postal_code_prefixes": "55",
+    "num_amphoe": 15,
+    "num_tambon": 99
+  },
+  "56": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phayao_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244618",
+    "area_rai": 3841875.0,
+    "distance_to_bangkok_km": 609.0,
+    "postal_code_prefixes": "56",
+    "num_amphoe": 9,
+    "num_tambon": 68
+  },
+  "57": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chiang_Rai_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q236419",
+    "area_rai": 7237062.5,
+    "distance_to_bangkok_km": 680.8,
+    "postal_code_prefixes": "57",
+    "num_amphoe": 18,
+    "num_tambon": 124
+  },
+  "58": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Mae_Hong_Son_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q269270",
+    "area_rai": 7784687.5,
+    "distance_to_bangkok_km": 626.5,
+    "postal_code_prefixes": "58",
+    "num_amphoe": 7,
+    "num_tambon": 45
+  },
+  "60": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Sawan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q239844",
+    "area_rai": 6039312.5,
+    "distance_to_bangkok_km": 219.8,
+    "postal_code_prefixes": "60",
+    "num_amphoe": 15,
+    "num_tambon": 130
+  },
+  "61": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Uthai_Thani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244649",
+    "area_rai": 4149062.5,
+    "distance_to_bangkok_km": 215.0,
+    "postal_code_prefixes": "61",
+    "num_amphoe": 8,
+    "num_tambon": 70
+  },
+  "62": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Kamphaeng_Phet_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q273807",
+    "area_rai": 5157062.5,
+    "distance_to_bangkok_km": 308.1,
+    "postal_code_prefixes": "62",
+    "num_amphoe": 11,
+    "num_tambon": 78
+  },
+  "63": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Tak_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q275758",
+    "area_rai": 10808312.5,
+    "distance_to_bangkok_km": 382.6,
+    "postal_code_prefixes": "63",
+    "num_amphoe": 9,
+    "num_tambon": 63
+  },
+  "64": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Sukhothai_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q380764",
+    "area_rai": 4250500.0,
+    "distance_to_bangkok_km": 399.4,
+    "postal_code_prefixes": "64",
+    "num_amphoe": 9,
+    "num_tambon": 86
+  },
+  "65": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phitsanulok_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q275781",
+    "area_rai": 6502000.0,
+    "distance_to_bangkok_km": 357.5,
+    "postal_code_prefixes": "65",
+    "num_amphoe": 9,
+    "num_tambon": 93
+  },
+  "66": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phichit_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q237874",
+    "area_rai": 2703750.0,
+    "distance_to_bangkok_km": 279.8,
+    "postal_code_prefixes": "66",
+    "num_amphoe": 12,
+    "num_tambon": 89
+  },
+  "67": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phetchabun_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q240520",
+    "area_rai": 7795187.5,
+    "distance_to_bangkok_km": 284.4,
+    "postal_code_prefixes": "67",
+    "num_amphoe": 11,
+    "num_tambon": 117
+  },
+  "70": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Ratchaburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q335492",
+    "area_rai": 3259750.0,
+    "distance_to_bangkok_km": 117.0,
+    "postal_code_prefixes": "70",
+    "num_amphoe": 10,
+    "num_tambon": 104
+  },
+  "71": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Kanchanaburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q275740",
+    "area_rai": 12093750.0,
+    "distance_to_bangkok_km": 194.2,
+    "postal_code_prefixes": "70|71",
+    "num_amphoe": 13,
+    "num_tambon": 98
+  },
+  "72": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Suphan_Buri_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q272247",
+    "area_rai": 3376187.5,
+    "distance_to_bangkok_km": 124.0,
+    "postal_code_prefixes": "72",
+    "num_amphoe": 10,
+    "num_tambon": 110
+  },
+  "73": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Pathom_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q334841",
+    "area_rai": 1377750.0,
+    "distance_to_bangkok_km": 60.2,
+    "postal_code_prefixes": "73",
+    "num_amphoe": 7,
+    "num_tambon": 106
+  },
+  "74": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Samut_Sakhon_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q334686",
+    "area_rai": 578437.5,
+    "distance_to_bangkok_km": 50.3,
+    "postal_code_prefixes": "74",
+    "num_amphoe": 3,
+    "num_tambon": 40
+  },
+  "75": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Samut_Songkhram_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q459742",
+    "area_rai": 223062.5,
+    "distance_to_bangkok_km": 82.0,
+    "postal_code_prefixes": "75",
+    "num_amphoe": 3,
+    "num_tambon": 36
+  },
+  "76": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phetchaburi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244699",
+    "area_rai": 3920000.0,
+    "distance_to_bangkok_km": 142.2,
+    "postal_code_prefixes": "76",
+    "num_amphoe": 8,
+    "num_tambon": 93
+  },
+  "77": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Prachuap_Khiri_Khan_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244628",
+    "area_rai": 4017562.5,
+    "distance_to_bangkok_km": 228.7,
+    "postal_code_prefixes": "77",
+    "num_amphoe": 8,
+    "num_tambon": 48
+  },
+  "80": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244691",
+    "area_rai": 6135375.0,
+    "distance_to_bangkok_km": 606.2,
+    "postal_code_prefixes": "80",
+    "num_amphoe": 23,
+    "num_tambon": 170
+  },
+  "81": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Krabi_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q236769",
+    "area_rai": 2720375.0,
+    "distance_to_bangkok_km": 645.1,
+    "postal_code_prefixes": "80|81",
+    "num_amphoe": 8,
+    "num_tambon": 53
+  },
+  "82": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phang_Nga_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q273306",
+    "area_rai": 2246625.0,
+    "distance_to_bangkok_km": 616.2,
+    "postal_code_prefixes": "82|83",
+    "num_amphoe": 8,
+    "num_tambon": 48
+  },
+  "83": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phuket_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q182565",
+    "area_rai": 372875.0,
+    "distance_to_bangkok_km": 691.1,
+    "postal_code_prefixes": "83",
+    "num_amphoe": 3,
+    "num_tambon": 17
+  },
+  "84": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Surat_Thani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q240463",
+    "area_rai": 8237562.5,
+    "distance_to_bangkok_km": 552.2,
+    "postal_code_prefixes": "84",
+    "num_amphoe": 19,
+    "num_tambon": 131
+  },
+  "85": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Ranong_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q236802",
+    "area_rai": 2099375.0,
+    "distance_to_bangkok_km": 472.9,
+    "postal_code_prefixes": "85",
+    "num_amphoe": 5,
+    "num_tambon": 30
+  },
+  "86": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Chumphon_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q244695",
+    "area_rai": 3751375.0,
+    "distance_to_bangkok_km": 416.3,
+    "postal_code_prefixes": "86",
+    "num_amphoe": 8,
+    "num_tambon": 70
+  },
+  "90": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Songkhla_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q235574",
+    "area_rai": 4858000.0,
+    "distance_to_bangkok_km": 760.3,
+    "postal_code_prefixes": "90",
+    "num_amphoe": 16,
+    "num_tambon": 127
+  },
+  "91": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Satun_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q236263",
+    "area_rai": 1805062.5,
+    "distance_to_bangkok_km": 771.5,
+    "postal_code_prefixes": "91",
+    "num_amphoe": 7,
+    "num_tambon": 36
+  },
+  "92": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Trang_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q243805",
+    "area_rai": 2884500.0,
+    "distance_to_bangkok_km": 699.8,
+    "postal_code_prefixes": "92",
+    "num_amphoe": 10,
+    "num_tambon": 87
+  },
+  "93": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Phatthalung_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q243808",
+    "area_rai": 2446937.5,
+    "distance_to_bangkok_km": 698.0,
+    "postal_code_prefixes": "93",
+    "num_amphoe": 11,
+    "num_tambon": 65
+  },
+  "94": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Pattani_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q236781",
+    "area_rai": 1282062.5,
+    "distance_to_bangkok_km": 786.8,
+    "postal_code_prefixes": "94",
+    "num_amphoe": 12,
+    "num_tambon": 115
+  },
+  "95": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Yala_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q242977",
+    "area_rai": 2718875.0,
+    "distance_to_bangkok_km": 846.3,
+    "postal_code_prefixes": "95",
+    "num_amphoe": 8,
+    "num_tambon": 58
+  },
+  "96": {
+    "wikipedia_article_url": "https://en.wikipedia.org/wiki/Narathiwat_province",
+    "iso_subdivision_type": "Province",
+    "wikidata_qid": "Q271442",
+    "area_rai": 2886187.5,
+    "distance_to_bangkok_km": 853.0,
+    "postal_code_prefixes": "96",
+    "num_amphoe": 13,
+    "num_tambon": 77
+  }
+}

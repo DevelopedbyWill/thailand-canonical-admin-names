@@ -1,0 +1,1655 @@
+{
+  "head" : {
+    "vars" : [ "province", "provinceLabel", "iso", "capital", "inception" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6580711"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thonburi Province"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7530902"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sisophon Province"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q855717"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7659554"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sai Buri"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014089"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khu Khan"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014097"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thanyaburi"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014099"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Champasak"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014100"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Takua Pa"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014104"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phibun Songkhram"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014108"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phra Pra Daeng"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014111"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phra Nakhon Province"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014113"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lan Chang"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014115"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Min Buri"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014123"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sawankhalok"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014124"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lom Sak"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13014127"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lang Suan"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15631833"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kabin Buri"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15647332"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phra Tabong Province"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q748336"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44163553"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syburi"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1943-01-01T00:00:00Z"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q271529"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samut Prakan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13139252"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-11"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q242932"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nonthaburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q768864"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-12"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q459748"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pathum Thani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365723"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-13"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q476222"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phra Nakhon Si Ayutthaya"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q203370"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-14"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243795"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ang Thong"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q530241"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-15"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336122"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lopburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1363891"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-16"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334836"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sing Buri"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1210752"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-17"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q459759"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chai Nat"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1059129"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-18"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q337627"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saraburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q686387"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-19"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207068"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chon Buri"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138589"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-20"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335221"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rayong"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1015123"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-21"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327730"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chanthaburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1015899"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-22"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241884"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trat"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025964"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-23"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334906"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chachoengsao"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1026368"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-24"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q321324"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prachin Buri"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365804"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-25"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q466212"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Nayok"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q595853"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-26"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q381889"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sa Kaeo"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1367916"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-27"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q271737"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Ratchasima"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633036"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-30"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327510"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buri Ram"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1026460"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-31"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q380757"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Surin"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207067"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-32"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q380761"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Si Sa Ket"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207432"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-33"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q629024"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ubon Ratchathani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132179"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-34"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q506598"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yasothon"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1017730"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-35"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q275377"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaiyaphum"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q997062"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-36"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243791"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amnat Charoen"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q473674"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-37"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1001862"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bueng Kan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4985499"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-03-23T00:00:00Z"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-38"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q261241"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nong Bua Lamphu"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207017"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-39"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327533"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khon Kaen"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q876526"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-40"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q380752"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Udon Thani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816331"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-41"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q275388"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Loei"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q598784"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-42"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327737"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nong Khai"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1026138"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-43"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q468554"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maha Sarakham"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1210731"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-44"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q625463"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roi Et"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1017738"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-45"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q382144"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kalasin"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012635"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-46"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q382125"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sakon Nakhon"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012639"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-47"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q468547"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Phanom"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q777162"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-48"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335119"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mukdahan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1017743"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-09-27T00:00:00Z"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-49"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233588"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chiang Mai"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52028"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-50"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240540"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lamphun"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1211214"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-51"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240495"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lampang"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012610"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1892-01-01T00:00:00Z"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-52"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273794"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uttaradit"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1359241"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-53"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244652"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phrae"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q476064"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-54"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244652"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phrae"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207145"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-54"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244698"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014345"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-55"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244618"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phayao"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207122"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1977-01-01T00:00:00Z"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-56"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236419"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chiang Rai"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q856772"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-57"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q269270"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mae Hong Son"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q743005"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-58"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q239844"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Sawan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012434"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-60"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244649"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uthai Thani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1332721"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-61"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273807"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kamphaeng Phet"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2960445"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-62"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q275758"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tak"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118901"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-63"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q380764"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sukhothai"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986737"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-64"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q275781"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phitsanulok"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867579"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-65"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237874"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phichit"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365823"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-66"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240520"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phetchabun"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1211346"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-67"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335492"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ratchaburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207138"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-70"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q275740"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanchanaburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q239121"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-71"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q272247"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suphan Buri"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q978805"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-72"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334841"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Pathom"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q520338"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-73"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334841"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Pathom"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28044857"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-73"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334686"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samut Sakhon"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1359220"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-74"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q459742"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samut Songkhram"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361155"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-75"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244699"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phetchaburi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q641383"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-76"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244628"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prachuap Khiri Khan"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q373340"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-77"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244691"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nakhon Si Thammarat"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012424"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-80"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236769"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Krabi"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1000353"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-81"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273306"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phang Nga"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q204587"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-82"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182565"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phuket"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844430"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-83"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240463"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Surat Thani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q840951"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-84"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236802"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ranong"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1012440"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-85"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244695"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chumphon"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637500"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-86"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q235574"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Songkhla"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q795595"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-90"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236263"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Satun"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365666"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-91"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243805"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trang"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014322"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-92"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243808"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phatthalung"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179539"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-93"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236781"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pattani"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025966"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-94"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q242977"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yala"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1207083"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-95"
+      }
+    }, {
+      "province" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q271442"
+      },
+      "provinceLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Narathiwat"
+      },
+      "capital" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q535747"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH-96"
+      }
+    } ]
+  }
+}

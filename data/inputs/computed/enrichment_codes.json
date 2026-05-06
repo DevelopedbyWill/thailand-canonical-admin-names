@@ -1,0 +1,464 @@
+{
+  "37": {
+    "hasc": "TH.AC",
+    "fips_code": "TH77",
+    "geonames_id": 1906689,
+    "telephone_area_codes": "045"
+  },
+  "15": {
+    "hasc": "TH.AT",
+    "fips_code": "TH35",
+    "geonames_id": 1621034,
+    "telephone_area_codes": "035"
+  },
+  "10": {
+    "hasc": "TH.BM",
+    "fips_code": "TH40",
+    "geonames_id": 1609348,
+    "telephone_area_codes": "02"
+  },
+  "38": {
+    "hasc": "TH.BK",
+    "fips_code": "TH81",
+    "geonames_id": 8133594,
+    "telephone_area_codes": "042"
+  },
+  "31": {
+    "hasc": "TH.BR",
+    "fips_code": "TH28",
+    "geonames_id": 1611452,
+    "telephone_area_codes": "044"
+  },
+  "24": {
+    "hasc": "TH.CC",
+    "fips_code": "TH44",
+    "geonames_id": 1611438,
+    "telephone_area_codes": "038"
+  },
+  "18": {
+    "hasc": "TH.CN",
+    "fips_code": "TH32",
+    "geonames_id": 1611415,
+    "telephone_area_codes": "056"
+  },
+  "36": {
+    "hasc": "TH.CY",
+    "fips_code": "TH26",
+    "geonames_id": 1611406,
+    "telephone_area_codes": "044"
+  },
+  "22": {
+    "hasc": "TH.CT",
+    "fips_code": "TH48",
+    "geonames_id": 1611268,
+    "telephone_area_codes": "039"
+  },
+  "50": {
+    "hasc": "TH.CM",
+    "fips_code": "TH02",
+    "geonames_id": 1153670,
+    "telephone_area_codes": "052|053"
+  },
+  "57": {
+    "hasc": "TH.CR",
+    "fips_code": "TH03",
+    "geonames_id": 1153668,
+    "telephone_area_codes": "052|053"
+  },
+  "20": {
+    "hasc": "TH.CB",
+    "fips_code": "TH46",
+    "geonames_id": 1611108,
+    "telephone_area_codes": "038"
+  },
+  "86": {
+    "hasc": "TH.CP",
+    "fips_code": "TH58",
+    "geonames_id": 1153555,
+    "telephone_area_codes": "077"
+  },
+  "46": {
+    "hasc": "TH.KL",
+    "fips_code": "TH23",
+    "geonames_id": 1610468,
+    "telephone_area_codes": "043"
+  },
+  "62": {
+    "hasc": "TH.KP",
+    "fips_code": "TH11",
+    "geonames_id": 1153089,
+    "telephone_area_codes": "055"
+  },
+  "71": {
+    "hasc": "TH.KN",
+    "fips_code": "TH50",
+    "geonames_id": 1153080,
+    "telephone_area_codes": "034"
+  },
+  "40": {
+    "hasc": "TH.KK",
+    "fips_code": "TH22",
+    "geonames_id": 1609775,
+    "telephone_area_codes": "043"
+  },
+  "81": {
+    "hasc": "TH.KR",
+    "fips_code": "TH63",
+    "geonames_id": 1152631,
+    "telephone_area_codes": "075"
+  },
+  "52": {
+    "hasc": "TH.LG",
+    "fips_code": "TH06",
+    "geonames_id": 1152472,
+    "telephone_area_codes": "054"
+  },
+  "51": {
+    "hasc": "TH.LN",
+    "fips_code": "TH05",
+    "geonames_id": 1152467,
+    "telephone_area_codes": "052|053"
+  },
+  "42": {
+    "hasc": "TH.LE",
+    "fips_code": "TH18",
+    "geonames_id": 1609070,
+    "telephone_area_codes": "042"
+  },
+  "16": {
+    "hasc": "TH.LB",
+    "fips_code": "TH34",
+    "geonames_id": 1609031,
+    "telephone_area_codes": "036"
+  },
+  "58": {
+    "hasc": "TH.MH",
+    "fips_code": "TH01",
+    "geonames_id": 1152221,
+    "telephone_area_codes": "052|053"
+  },
+  "44": {
+    "hasc": "TH.MS",
+    "fips_code": "TH24",
+    "geonames_id": 1608899,
+    "telephone_area_codes": "043"
+  },
+  "49": {
+    "hasc": "TH.MD",
+    "fips_code": "TH78",
+    "geonames_id": 1608595,
+    "telephone_area_codes": "042"
+  },
+  "26": {
+    "hasc": "TH.NN",
+    "fips_code": "TH43",
+    "geonames_id": 1608538,
+    "telephone_area_codes": "037"
+  },
+  "73": {
+    "hasc": "TH.NP",
+    "fips_code": "TH53",
+    "geonames_id": 1608533,
+    "telephone_area_codes": "02|034"
+  },
+  "48": {
+    "hasc": "TH.NF",
+    "fips_code": "TH73",
+    "geonames_id": 1608530,
+    "telephone_area_codes": "042"
+  },
+  "30": {
+    "hasc": "TH.NR",
+    "fips_code": "TH27",
+    "geonames_id": 1608528,
+    "telephone_area_codes": "044"
+  },
+  "60": {
+    "hasc": "TH.NS",
+    "fips_code": "TH16",
+    "geonames_id": 1608526,
+    "telephone_area_codes": "056"
+  },
+  "80": {
+    "hasc": "TH.NT",
+    "fips_code": "TH64",
+    "geonames_id": 1608525,
+    "telephone_area_codes": "075"
+  },
+  "55": {
+    "hasc": "TH.NA",
+    "fips_code": "TH04",
+    "geonames_id": 1608451,
+    "telephone_area_codes": "054"
+  },
+  "96": {
+    "hasc": "TH.NW",
+    "fips_code": "TH31",
+    "geonames_id": 1608408,
+    "telephone_area_codes": "073"
+  },
+  "39": {
+    "hasc": "TH.NB",
+    "fips_code": "TH79",
+    "geonames_id": 1906690,
+    "telephone_area_codes": "042"
+  },
+  "43": {
+    "hasc": "TH.NH",
+    "fips_code": "TH17",
+    "geonames_id": 1608231,
+    "telephone_area_codes": "042"
+  },
+  "12": {
+    "hasc": "TH.NO",
+    "fips_code": "TH38",
+    "geonames_id": 1608132,
+    "telephone_area_codes": "02"
+  },
+  "13": {
+    "hasc": "TH.PT",
+    "fips_code": "TH39",
+    "geonames_id": 1607982,
+    "telephone_area_codes": "02"
+  },
+  "94": {
+    "hasc": "TH.PI",
+    "fips_code": "TH69",
+    "geonames_id": 1607976,
+    "telephone_area_codes": "073"
+  },
+  "82": {
+    "hasc": "TH.PG",
+    "fips_code": "TH61",
+    "geonames_id": 1151462,
+    "telephone_area_codes": "076"
+  },
+  "93": {
+    "hasc": "TH.PL",
+    "fips_code": "TH66",
+    "geonames_id": 1607778,
+    "telephone_area_codes": "074"
+  },
+  "56": {
+    "hasc": "TH.PY",
+    "fips_code": "TH41",
+    "geonames_id": 1607758,
+    "telephone_area_codes": "054"
+  },
+  "67": {
+    "hasc": "TH.PH",
+    "fips_code": "TH14",
+    "geonames_id": 1607736,
+    "telephone_area_codes": "043|056"
+  },
+  "76": {
+    "hasc": "TH.PE",
+    "fips_code": "TH56",
+    "geonames_id": 1151416,
+    "telephone_area_codes": "032"
+  },
+  "66": {
+    "hasc": "TH.PC",
+    "fips_code": "TH13",
+    "geonames_id": 1607724,
+    "telephone_area_codes": "055|056"
+  },
+  "65": {
+    "hasc": "TH.PS",
+    "fips_code": "TH12",
+    "geonames_id": 1607707,
+    "telephone_area_codes": "055"
+  },
+  "54": {
+    "hasc": "TH.PR",
+    "fips_code": "TH07",
+    "geonames_id": 1607551,
+    "telephone_area_codes": "054"
+  },
+  "14": {
+    "hasc": "TH.PA",
+    "fips_code": "TH36",
+    "geonames_id": 1607530,
+    "telephone_area_codes": "035"
+  },
+  "83": {
+    "hasc": "TH.PU",
+    "fips_code": "TH62",
+    "geonames_id": 1151253,
+    "telephone_area_codes": "076"
+  },
+  "25": {
+    "hasc": "TH.PB",
+    "fips_code": "TH74",
+    "geonames_id": 1906687,
+    "telephone_area_codes": "037"
+  },
+  "77": {
+    "hasc": "TH.PK",
+    "fips_code": "TH57",
+    "geonames_id": 1151073,
+    "telephone_area_codes": "032"
+  },
+  "85": {
+    "hasc": "TH.RN",
+    "fips_code": "TH59",
+    "geonames_id": 1150964,
+    "telephone_area_codes": "077"
+  },
+  "70": {
+    "hasc": "TH.RT",
+    "fips_code": "TH52",
+    "geonames_id": 1150953,
+    "telephone_area_codes": "032"
+  },
+  "21": {
+    "hasc": "TH.RY",
+    "fips_code": "TH47",
+    "geonames_id": 1607016,
+    "telephone_area_codes": "038"
+  },
+  "45": {
+    "hasc": "TH.RE",
+    "fips_code": "TH25",
+    "geonames_id": 1607000,
+    "telephone_area_codes": "043"
+  },
+  "27": {
+    "hasc": "TH.SK",
+    "fips_code": "TH80",
+    "geonames_id": 1906691,
+    "telephone_area_codes": "037"
+  },
+  "47": {
+    "hasc": "TH.SN",
+    "fips_code": "TH20",
+    "geonames_id": 1606789,
+    "telephone_area_codes": "042"
+  },
+  "11": {
+    "hasc": "TH.SP",
+    "fips_code": "TH42",
+    "geonames_id": 1606589,
+    "telephone_area_codes": "02"
+  },
+  "74": {
+    "hasc": "TH.SS",
+    "fips_code": "TH55",
+    "geonames_id": 1606587,
+    "telephone_area_codes": "034"
+  },
+  "75": {
+    "hasc": "TH.SM",
+    "fips_code": "TH54",
+    "geonames_id": 1606585,
+    "telephone_area_codes": "034"
+  },
+  "19": {
+    "hasc": "TH.SR",
+    "fips_code": "TH37",
+    "geonames_id": 1606417,
+    "telephone_area_codes": "036"
+  },
+  "91": {
+    "hasc": "TH.SA",
+    "fips_code": "TH67",
+    "geonames_id": 1606375,
+    "telephone_area_codes": "074"
+  },
+  "17": {
+    "hasc": "TH.SB",
+    "fips_code": "TH33",
+    "geonames_id": 1606269,
+    "telephone_area_codes": "036"
+  },
+  "33": {
+    "hasc": "TH.SI",
+    "fips_code": "TH30",
+    "geonames_id": 1606238,
+    "telephone_area_codes": "045"
+  },
+  "90": {
+    "hasc": "TH.SG",
+    "fips_code": "TH68",
+    "geonames_id": 1606146,
+    "telephone_area_codes": "074"
+  },
+  "64": {
+    "hasc": "TH.SO",
+    "fips_code": "TH09",
+    "geonames_id": 1150532,
+    "telephone_area_codes": "055"
+  },
+  "72": {
+    "hasc": "TH.SH",
+    "fips_code": "TH51",
+    "geonames_id": 1606032,
+    "telephone_area_codes": "035"
+  },
+  "84": {
+    "hasc": "TH.ST",
+    "fips_code": "TH60",
+    "geonames_id": 1150514,
+    "telephone_area_codes": "077"
+  },
+  "32": {
+    "hasc": "TH.SU",
+    "fips_code": "TH29",
+    "geonames_id": 1606029,
+    "telephone_area_codes": "044"
+  },
+  "63": {
+    "hasc": "TH.TK",
+    "fips_code": "TH08",
+    "geonames_id": 1150489,
+    "telephone_area_codes": "055"
+  },
+  "92": {
+    "hasc": "TH.TG",
+    "fips_code": "TH65",
+    "geonames_id": 1150006,
+    "telephone_area_codes": "075"
+  },
+  "23": {
+    "hasc": "TH.TT",
+    "fips_code": "TH49",
+    "geonames_id": 1605277,
+    "telephone_area_codes": "039"
+  },
+  "34": {
+    "hasc": "TH.UR",
+    "fips_code": "TH75",
+    "geonames_id": 1906688,
+    "telephone_area_codes": "045"
+  },
+  "41": {
+    "hasc": "TH.UN",
+    "fips_code": "TH76",
+    "geonames_id": 1906686,
+    "telephone_area_codes": "042"
+  },
+  "61": {
+    "hasc": "TH.UT",
+    "fips_code": "TH15",
+    "geonames_id": 1149965,
+    "telephone_area_codes": "056"
+  },
+  "53": {
+    "hasc": "TH.UD",
+    "fips_code": "TH10",
+    "geonames_id": 1605214,
+    "telephone_area_codes": "055"
+  },
+  "95": {
+    "hasc": "TH.YL",
+    "fips_code": "TH70",
+    "geonames_id": 1604869,
+    "telephone_area_codes": "073"
+  },
+  "35": {
+    "hasc": "TH.YS",
+    "fips_code": "TH72",
+    "geonames_id": 1604767,
+    "telephone_area_codes": "045"
+  }
+}

@@ -1,0 +1,6 @@
+IBM Plex Sans Thai is licensed under the SIL Open Font License, Version 1.1.
+Source: https://github.com/IBM/plex
+The font is bundled here to make the methodology PDF build reproducible
+without requiring system font installation.
+The full OFL 1.1 license text is available at:
+https://github.com/IBM/plex/blob/master/LICENSE.txt

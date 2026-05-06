@@ -1,0 +1,72 @@
+name: Upstream drift check
+
+on:
+  schedule:
+    # Runs every Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-drift:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run drift check
+        id: drift
+        run: |
+          python3 bin/check_upstream_drift.py
+        continue-on-error: true
+
+      - name: Upload drift report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: upstream-drift-report
+          path: data/upstream_drift_report.md
+          if-no-files-found: warn
+
+      - name: Open issue when drift detected
+        if: steps.drift.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('data/upstream_drift_report.md', 'utf8');
+            const today = new Date().toISOString().slice(0, 10);
+            const title = `Upstream drift detected on ${today}`;
+            // Avoid duplicate issues by checking for an open issue with this title.
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'drift',
+              per_page: 100,
+            });
+            if (existing.data.some(i => i.title === title)) {
+              core.info(`open drift issue already exists for ${today}`);
+              return;
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: title,
+              labels: ['drift', 'maintenance'],
+              body: `Automated drift check found upstream content changes since the cached v1.0 inputs were captured.\n\n---\n\n${report}\n\n---\n\nReview each drifted source, decide whether the cached copy should be refreshed, and document the resulting schema or content shift in CHANGELOG.md before incorporating into a v1.x release.`,
+            });
+
+      - name: Fail job when drift detected
+        if: steps.drift.outcome == 'failure'
+        run: |
+          echo "drift detected — see data/upstream_drift_report.md and the opened issue"
+          exit 1

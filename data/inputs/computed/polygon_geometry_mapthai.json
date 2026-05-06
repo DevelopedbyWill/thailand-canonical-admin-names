@@ -1,0 +1,772 @@
+{
+  "37": {
+    "name_en": "Amnat Charoen",
+    "centroid_lat": 15.90739,
+    "centroid_lon": 104.74225,
+    "bbox_minlat": 15.56393,
+    "bbox_minlon": 104.41923,
+    "bbox_maxlat": 16.27913,
+    "bbox_maxlon": 105.06026,
+    "area_km2": 3126.6
+  },
+  "15": {
+    "name_en": "Ang Thong",
+    "centroid_lat": 14.61528,
+    "centroid_lon": 100.35017,
+    "bbox_minlat": 14.4595,
+    "bbox_minlon": 100.19173,
+    "bbox_maxlat": 14.79505,
+    "bbox_maxlon": 100.50341,
+    "area_km2": 946.6
+  },
+  "10": {
+    "name_en": "Bangkok",
+    "centroid_lat": 13.76629,
+    "centroid_lon": 100.62907,
+    "bbox_minlat": 13.49339,
+    "bbox_minlon": 100.32791,
+    "bbox_maxlat": 13.9512,
+    "bbox_maxlon": 100.93852,
+    "area_km2": 1716.5
+  },
+  "38": {
+    "name_en": "Bueng Kan",
+    "centroid_lat": 18.14875,
+    "centroid_lon": 103.72741,
+    "bbox_minlat": 17.8108,
+    "bbox_minlon": 103.24391,
+    "bbox_maxlat": 18.44798,
+    "bbox_maxlon": 104.18998,
+    "area_km2": 3968.5
+  },
+  "31": {
+    "name_en": "Buri Ram",
+    "centroid_lat": 14.81078,
+    "centroid_lon": 102.95101,
+    "bbox_minlat": 14.13004,
+    "bbox_minlon": 102.43453,
+    "bbox_maxlat": 15.79583,
+    "bbox_maxlon": 103.44263,
+    "area_km2": 9926.6
+  },
+  "24": {
+    "name_en": "Chachoengsao",
+    "centroid_lat": 13.60756,
+    "centroid_lon": 101.43324,
+    "bbox_minlat": 13.18221,
+    "bbox_minlon": 100.84839,
+    "bbox_maxlat": 13.96989,
+    "bbox_maxlon": 101.9889,
+    "area_km2": 5206.2
+  },
+  "18": {
+    "name_en": "Chai Nat",
+    "centroid_lat": 15.13292,
+    "centroid_lon": 100.03932,
+    "bbox_minlat": 14.90697,
+    "bbox_minlon": 99.72377,
+    "bbox_maxlat": 15.41736,
+    "bbox_maxlon": 100.35152,
+    "area_km2": 2447.6
+  },
+  "36": {
+    "name_en": "Chaiyaphum",
+    "centroid_lat": 16.03175,
+    "centroid_lon": 101.82083,
+    "bbox_minlat": 15.3314,
+    "bbox_minlon": 101.33632,
+    "bbox_maxlat": 16.72759,
+    "bbox_maxlon": 102.45887,
+    "area_km2": 12561.3
+  },
+  "22": {
+    "name_en": "Chanthaburi",
+    "centroid_lat": 12.88478,
+    "centroid_lon": 102.13092,
+    "bbox_minlat": 12.29292,
+    "bbox_minlon": 101.69577,
+    "bbox_maxlat": 13.33609,
+    "bbox_maxlon": 102.50762,
+    "area_km2": 6593.6
+  },
+  "50": {
+    "name_en": "Chiang Mai",
+    "centroid_lat": 18.79808,
+    "centroid_lon": 98.72897,
+    "bbox_minlat": 17.24231,
+    "bbox_minlon": 98.01094,
+    "bbox_maxlat": 20.14743,
+    "bbox_maxlon": 99.57287,
+    "area_km2": 22438.2
+  },
+  "57": {
+    "name_en": "Chiang Rai",
+    "centroid_lat": 19.84549,
+    "centroid_lon": 99.86937,
+    "bbox_minlat": 19.00015,
+    "bbox_minlon": 99.26472,
+    "bbox_maxlat": 20.44617,
+    "bbox_maxlon": 100.57817,
+    "area_km2": 11579.3
+  },
+  "20": {
+    "name_en": "Chon Buri",
+    "centroid_lat": 13.20649,
+    "centroid_lon": 101.20533,
+    "bbox_minlat": 12.64836,
+    "bbox_minlon": 100.85269,
+    "bbox_maxlat": 13.58429,
+    "bbox_maxlon": 101.71714,
+    "area_km2": 4459.6
+  },
+  "86": {
+    "name_en": "Chumphon",
+    "centroid_lat": 10.34867,
+    "centroid_lon": 99.06539,
+    "bbox_minlat": 9.60088,
+    "bbox_minlon": 98.63033,
+    "bbox_maxlat": 11.03371,
+    "bbox_maxlon": 99.50256,
+    "area_km2": 6002.2
+  },
+  "46": {
+    "name_en": "Kalasin",
+    "centroid_lat": 16.62506,
+    "centroid_lon": 103.61341,
+    "bbox_minlat": 16.19264,
+    "bbox_minlon": 103.09812,
+    "bbox_maxlat": 17.05891,
+    "bbox_maxlon": 104.23786,
+    "area_km2": 6663.5
+  },
+  "62": {
+    "name_en": "Kamphaeng Phet",
+    "centroid_lat": 16.32709,
+    "centroid_lon": 99.53347,
+    "bbox_minlat": 15.85754,
+    "bbox_minlon": 99.01981,
+    "bbox_maxlat": 16.87586,
+    "bbox_maxlon": 100.02485,
+    "area_km2": 8251.3
+  },
+  "71": {
+    "name_en": "Kanchanaburi",
+    "centroid_lat": 14.59315,
+    "centroid_lon": 99.04275,
+    "bbox_minlat": 13.72585,
+    "bbox_minlon": 98.18118,
+    "bbox_maxlat": 15.65248,
+    "bbox_maxlon": 99.87586,
+    "area_km2": 19350.0
+  },
+  "40": {
+    "name_en": "Khon Kaen",
+    "centroid_lat": 16.40759,
+    "centroid_lon": 102.57439,
+    "bbox_minlat": 15.63359,
+    "bbox_minlon": 101.75082,
+    "bbox_maxlat": 16.99375,
+    "bbox_maxlon": 103.17507,
+    "area_km2": 10601.6
+  },
+  "81": {
+    "name_en": "Krabi",
+    "centroid_lat": 8.18597,
+    "centroid_lon": 99.01144,
+    "bbox_minlat": 7.65736,
+    "bbox_minlon": 98.63543,
+    "bbox_maxlat": 8.68134,
+    "bbox_maxlon": 99.38485,
+    "area_km2": 4352.6
+  },
+  "52": {
+    "name_en": "Lampang",
+    "centroid_lat": 18.32558,
+    "centroid_lon": 99.51055,
+    "bbox_minlat": 17.22907,
+    "bbox_minlon": 98.88087,
+    "bbox_maxlat": 19.41766,
+    "bbox_maxlon": 100.11402,
+    "area_km2": 12672.6
+  },
+  "51": {
+    "name_en": "Lamphun",
+    "centroid_lat": 18.11186,
+    "centroid_lon": 98.95305,
+    "bbox_minlat": 17.42589,
+    "bbox_minlon": 98.67129,
+    "bbox_maxlat": 18.70831,
+    "bbox_maxlon": 99.31734,
+    "area_km2": 4383.0
+  },
+  "42": {
+    "name_en": "Loei",
+    "centroid_lat": 17.4074,
+    "centroid_lon": 101.63113,
+    "bbox_minlat": 16.75988,
+    "bbox_minlon": 100.83382,
+    "bbox_maxlat": 18.21351,
+    "bbox_maxlon": 102.15172,
+    "area_km2": 10619.5
+  },
+  "16": {
+    "name_en": "Lop Buri",
+    "centroid_lat": 15.10653,
+    "centroid_lon": 100.90261,
+    "bbox_minlat": 14.65505,
+    "bbox_minlon": 100.42749,
+    "bbox_maxlat": 15.75302,
+    "bbox_maxlon": 101.40356,
+    "area_km2": 6521.0
+  },
+  "58": {
+    "name_en": "Mae Hong Son",
+    "centroid_lat": 18.81955,
+    "centroid_lon": 98.03088,
+    "bbox_minlat": 17.63718,
+    "bbox_minlon": 97.36224,
+    "bbox_maxlat": 19.80344,
+    "bbox_maxlon": 98.64047,
+    "area_km2": 12455.5
+  },
+  "44": {
+    "name_en": "Maha Sarakham",
+    "centroid_lat": 15.99083,
+    "centroid_lon": 103.16696,
+    "bbox_minlat": 15.40896,
+    "bbox_minlon": 102.84786,
+    "bbox_maxlat": 16.6436,
+    "bbox_maxlon": 103.50228,
+    "area_km2": 5855.9
+  },
+  "49": {
+    "name_en": "Mukdahan",
+    "centroid_lat": 16.56794,
+    "centroid_lon": 104.51029,
+    "bbox_minlat": 16.19644,
+    "bbox_minlon": 104.07011,
+    "bbox_maxlat": 16.90693,
+    "bbox_maxlon": 104.97872,
+    "area_km2": 4185.9
+  },
+  "26": {
+    "name_en": "Nakhon Nayok",
+    "centroid_lat": 14.21268,
+    "centroid_lon": 101.17711,
+    "bbox_minlat": 13.96128,
+    "bbox_minlon": 100.91422,
+    "bbox_maxlat": 14.51248,
+    "bbox_maxlon": 101.50178,
+    "area_km2": 2177.2
+  },
+  "73": {
+    "name_en": "Nakhon Pathom",
+    "centroid_lat": 13.92547,
+    "centroid_lon": 100.09635,
+    "bbox_minlat": 13.66029,
+    "bbox_minlon": 99.8141,
+    "bbox_maxlat": 14.17921,
+    "bbox_maxlon": 100.33033,
+    "area_km2": 2204.4
+  },
+  "48": {
+    "name_en": "Nakhon Phanom",
+    "centroid_lat": 17.38826,
+    "centroid_lon": 104.43213,
+    "bbox_minlat": 16.80471,
+    "bbox_minlon": 103.99638,
+    "bbox_maxlat": 18.02374,
+    "bbox_maxlon": 104.80226,
+    "area_km2": 5375.8
+  },
+  "30": {
+    "name_en": "Nakhon Ratchasima",
+    "centroid_lat": 14.9568,
+    "centroid_lon": 102.11116,
+    "bbox_minlat": 14.12023,
+    "bbox_minlon": 101.19895,
+    "bbox_maxlat": 15.80341,
+    "bbox_maxlon": 102.97834,
+    "area_km2": 20748.6
+  },
+  "60": {
+    "name_en": "Nakhon Sawan",
+    "centroid_lat": 15.68723,
+    "centroid_lon": 100.14812,
+    "bbox_minlat": 15.06109,
+    "bbox_minlon": 99.08612,
+    "bbox_maxlat": 16.19118,
+    "bbox_maxlon": 100.83097,
+    "area_km2": 9662.9
+  },
+  "80": {
+    "name_en": "Nakhon Si Thammarat",
+    "centroid_lat": 8.37768,
+    "centroid_lon": 99.78429,
+    "bbox_minlat": 7.83806,
+    "bbox_minlon": 99.2345,
+    "bbox_maxlat": 9.3228,
+    "bbox_maxlon": 100.33657,
+    "area_km2": 9816.6
+  },
+  "55": {
+    "name_en": "Nan",
+    "centroid_lat": 18.84795,
+    "centroid_lon": 100.83536,
+    "bbox_minlat": 18.0217,
+    "bbox_minlon": 100.34038,
+    "bbox_maxlat": 19.63494,
+    "bbox_maxlon": 101.35815,
+    "area_km2": 11945.3
+  },
+  "96": {
+    "name_en": "Narathiwat",
+    "centroid_lat": 6.17027,
+    "centroid_lon": 101.71844,
+    "bbox_minlat": 5.733,
+    "bbox_minlon": 101.37137,
+    "bbox_maxlat": 6.57686,
+    "bbox_maxlon": 102.08905,
+    "area_km2": 4617.9
+  },
+  "39": {
+    "name_en": "Nong Bua Lam Phu",
+    "centroid_lat": 17.1842,
+    "centroid_lon": 102.30777,
+    "bbox_minlat": 16.77202,
+    "bbox_minlon": 101.9875,
+    "bbox_maxlat": 17.67918,
+    "bbox_maxlon": 102.66933,
+    "area_km2": 4070.8
+  },
+  "43": {
+    "name_en": "Nong Khai",
+    "centroid_lat": 17.94294,
+    "centroid_lon": 102.83737,
+    "bbox_minlat": 17.59377,
+    "bbox_minlon": 102.05514,
+    "bbox_maxlat": 18.30525,
+    "bbox_maxlon": 103.40515,
+    "area_km2": 3436.1
+  },
+  "12": {
+    "name_en": "Nonthaburi",
+    "centroid_lat": 13.92598,
+    "centroid_lon": 100.39339,
+    "bbox_minlat": 13.80023,
+    "bbox_minlon": 100.27612,
+    "bbox_maxlat": 14.12688,
+    "bbox_maxlon": 100.56755,
+    "area_km2": 633.2
+  },
+  "13": {
+    "name_en": "Pathum Thani",
+    "centroid_lat": 14.06882,
+    "centroid_lon": 100.69526,
+    "bbox_minlat": 13.91625,
+    "bbox_minlon": 100.34404,
+    "bbox_maxlat": 14.27168,
+    "bbox_maxlon": 100.95112,
+    "area_km2": 1549.0
+  },
+  "94": {
+    "name_en": "Pattani",
+    "centroid_lat": 6.72656,
+    "centroid_lon": 101.3516,
+    "bbox_minlat": 6.5647,
+    "bbox_minlon": 101.01762,
+    "bbox_maxlat": 6.90573,
+    "bbox_maxlon": 101.72484,
+    "area_km2": 2051.3
+  },
+  "82": {
+    "name_en": "Phangnga",
+    "centroid_lat": 8.66659,
+    "centroid_lon": 98.41857,
+    "bbox_minlat": 8.12675,
+    "bbox_minlon": 98.20519,
+    "bbox_maxlat": 9.33219,
+    "bbox_maxlon": 98.70344,
+    "area_km2": 3594.6
+  },
+  "93": {
+    "name_en": "Phatthalung",
+    "centroid_lat": 7.51281,
+    "centroid_lon": 100.07108,
+    "bbox_minlat": 7.10758,
+    "bbox_minlon": 99.73825,
+    "bbox_maxlat": 7.89288,
+    "bbox_maxlon": 100.42814,
+    "area_km2": 3915.1
+  },
+  "56": {
+    "name_en": "Phayao",
+    "centroid_lat": 19.22699,
+    "centroid_lon": 100.19354,
+    "bbox_minlat": 18.80596,
+    "bbox_minlon": 99.69362,
+    "bbox_maxlat": 19.73606,
+    "bbox_maxlon": 100.60857,
+    "area_km2": 6147.0
+  },
+  "67": {
+    "name_en": "Phetchabun",
+    "centroid_lat": 16.27472,
+    "centroid_lon": 101.14564,
+    "bbox_minlat": 15.31942,
+    "bbox_minlon": 100.63653,
+    "bbox_maxlat": 17.17154,
+    "bbox_maxlon": 101.79725,
+    "area_km2": 12472.3
+  },
+  "76": {
+    "name_en": "Phetchaburi",
+    "centroid_lat": 12.94563,
+    "centroid_lon": 99.62098,
+    "bbox_minlat": 12.58298,
+    "bbox_minlon": 99.09953,
+    "bbox_maxlat": 13.34341,
+    "bbox_maxlon": 100.10204,
+    "area_km2": 6272.0
+  },
+  "66": {
+    "name_en": "Phichit",
+    "centroid_lat": 16.26653,
+    "centroid_lon": 100.33541,
+    "bbox_minlat": 15.93113,
+    "bbox_minlon": 99.98373,
+    "bbox_maxlat": 16.61207,
+    "bbox_maxlon": 100.76607,
+    "area_km2": 4326.0
+  },
+  "65": {
+    "name_en": "Phitsanulok",
+    "centroid_lat": 16.98001,
+    "centroid_lon": 100.54148,
+    "bbox_minlat": 16.32079,
+    "bbox_minlon": 99.85341,
+    "bbox_maxlat": 17.74368,
+    "bbox_maxlon": 101.10799,
+    "area_km2": 10403.2
+  },
+  "14": {
+    "name_en": "Phra Nakhon Si Ayutthaya",
+    "centroid_lat": 14.3376,
+    "centroid_lon": 100.52001,
+    "bbox_minlat": 14.11503,
+    "bbox_minlon": 100.2129,
+    "bbox_maxlat": 14.66992,
+    "bbox_maxlon": 100.8215,
+    "area_km2": 2496.8
+  },
+  "54": {
+    "name_en": "Phrae",
+    "centroid_lat": 18.19149,
+    "centroid_lon": 100.06786,
+    "bbox_minlat": 17.72151,
+    "bbox_minlon": 99.36757,
+    "bbox_maxlat": 18.80855,
+    "bbox_maxlon": 100.54186,
+    "area_km2": 6512.7
+  },
+  "83": {
+    "name_en": "Phuket",
+    "centroid_lat": 7.9686,
+    "centroid_lon": 98.34794,
+    "bbox_minlat": 7.76338,
+    "bbox_minlon": 98.26305,
+    "bbox_maxlat": 8.19909,
+    "bbox_maxlon": 98.4407,
+    "area_km2": 596.6
+  },
+  "25": {
+    "name_en": "Prachin Buri",
+    "centroid_lat": 14.05006,
+    "centroid_lon": 101.65961,
+    "bbox_minlat": 13.5856,
+    "bbox_minlon": 101.1378,
+    "bbox_maxlat": 14.43802,
+    "bbox_maxlon": 102.11057,
+    "area_km2": 4889.5
+  },
+  "77": {
+    "name_en": "Prachuap Khiri Khan",
+    "centroid_lat": 11.9513,
+    "centroid_lon": 99.63664,
+    "bbox_minlat": 10.96836,
+    "bbox_minlon": 99.15378,
+    "bbox_maxlat": 12.6325,
+    "bbox_maxlon": 100.0189,
+    "area_km2": 6428.1
+  },
+  "85": {
+    "name_en": "Ranong",
+    "centroid_lat": 9.95626,
+    "centroid_lon": 98.69871,
+    "bbox_minlat": 9.3089,
+    "bbox_minlon": 98.39047,
+    "bbox_maxlat": 10.78416,
+    "bbox_maxlon": 98.96487,
+    "area_km2": 3359.0
+  },
+  "70": {
+    "name_en": "Ratchaburi",
+    "centroid_lat": 13.53184,
+    "centroid_lon": 99.57348,
+    "bbox_minlat": 13.14879,
+    "bbox_minlon": 99.16732,
+    "bbox_maxlat": 13.96124,
+    "bbox_maxlon": 100.06027,
+    "area_km2": 5215.6
+  },
+  "21": {
+    "name_en": "Rayong",
+    "centroid_lat": 12.85585,
+    "centroid_lon": 101.42339,
+    "bbox_minlat": 12.64234,
+    "bbox_minlon": 100.99226,
+    "bbox_maxlat": 13.1466,
+    "bbox_maxlon": 101.82929,
+    "area_km2": 3744.8
+  },
+  "45": {
+    "name_en": "Roi Et",
+    "centroid_lat": 15.92535,
+    "centroid_lon": 103.82136,
+    "bbox_minlat": 15.40698,
+    "bbox_minlon": 103.26712,
+    "bbox_maxlat": 16.46891,
+    "bbox_maxlon": 104.348,
+    "area_km2": 7741.2
+  },
+  "27": {
+    "name_en": "Sa Kaeo",
+    "centroid_lat": 13.79118,
+    "centroid_lon": 102.32721,
+    "bbox_minlat": 13.23671,
+    "bbox_minlon": 101.91052,
+    "bbox_maxlat": 14.17565,
+    "bbox_maxlon": 102.93036,
+    "area_km2": 6650.9
+  },
+  "47": {
+    "name_en": "Sakon Nakhon",
+    "centroid_lat": 17.38635,
+    "centroid_lon": 103.82659,
+    "bbox_minlat": 16.77656,
+    "bbox_minlon": 103.27504,
+    "bbox_maxlat": 18.07433,
+    "bbox_maxlon": 104.43507,
+    "area_km2": 9609.1
+  },
+  "11": {
+    "name_en": "Samut Prakan",
+    "centroid_lat": 13.59348,
+    "centroid_lon": 100.71411,
+    "bbox_minlat": 13.47842,
+    "bbox_minlon": 100.45369,
+    "bbox_maxlat": 13.6969,
+    "bbox_maxlon": 100.95582,
+    "area_km2": 819.2
+  },
+  "74": {
+    "name_en": "Samut Sakhon",
+    "centroid_lat": 13.56839,
+    "centroid_lon": 100.21008,
+    "bbox_minlat": 13.42533,
+    "bbox_minlon": 100.02952,
+    "bbox_maxlat": 13.71972,
+    "bbox_maxlon": 100.40884,
+    "area_km2": 925.5
+  },
+  "75": {
+    "name_en": "Samut Songkhram",
+    "centroid_lat": 13.41119,
+    "centroid_lon": 99.96372,
+    "bbox_minlat": 13.29662,
+    "bbox_minlon": 99.85595,
+    "bbox_maxlat": 13.51453,
+    "bbox_maxlon": 100.07878,
+    "area_km2": 356.9
+  },
+  "19": {
+    "name_en": "Saraburi",
+    "centroid_lat": 14.62567,
+    "centroid_lon": 101.01942,
+    "bbox_minlat": 14.24275,
+    "bbox_minlon": 100.60228,
+    "bbox_maxlat": 15.07379,
+    "bbox_maxlon": 101.45016,
+    "area_km2": 3576.7
+  },
+  "91": {
+    "name_en": "Satun",
+    "centroid_lat": 6.86042,
+    "centroid_lon": 99.95063,
+    "bbox_minlat": 6.42272,
+    "bbox_minlon": 99.59564,
+    "bbox_maxlat": 7.2037,
+    "bbox_maxlon": 100.20442,
+    "area_km2": 2888.1
+  },
+  "33": {
+    "name_en": "Si Sa Ket",
+    "centroid_lat": 14.84931,
+    "centroid_lon": 104.37692,
+    "bbox_minlat": 14.34344,
+    "bbox_minlon": 103.90336,
+    "bbox_maxlat": 15.56313,
+    "bbox_maxlon": 104.90711,
+    "area_km2": 9101.0
+  },
+  "17": {
+    "name_en": "Sing Buri",
+    "centroid_lat": 14.90962,
+    "centroid_lon": 100.33995,
+    "bbox_minlat": 14.7211,
+    "bbox_minlon": 100.2027,
+    "bbox_maxlat": 15.11841,
+    "bbox_maxlon": 100.45794,
+    "area_km2": 807.5
+  },
+  "90": {
+    "name_en": "Songkhla",
+    "centroid_lat": 6.92878,
+    "centroid_lon": 100.55609,
+    "bbox_minlat": 6.30042,
+    "bbox_minlon": 100.05722,
+    "bbox_maxlat": 7.9318,
+    "bbox_maxlon": 101.10362,
+    "area_km2": 7772.8
+  },
+  "64": {
+    "name_en": "Sukhothai",
+    "centroid_lat": 17.24746,
+    "centroid_lon": 99.71035,
+    "bbox_minlat": 16.68491,
+    "bbox_minlon": 99.31434,
+    "bbox_maxlat": 17.80719,
+    "bbox_maxlon": 100.10094,
+    "area_km2": 6800.8
+  },
+  "72": {
+    "name_en": "Suphan Buri",
+    "centroid_lat": 14.61895,
+    "centroid_lon": 99.88773,
+    "bbox_minlat": 14.06424,
+    "bbox_minlon": 99.2828,
+    "bbox_maxlat": 15.08091,
+    "bbox_maxlon": 100.27957,
+    "area_km2": 5401.9
+  },
+  "84": {
+    "name_en": "Surat Thani",
+    "centroid_lat": 9.03818,
+    "centroid_lon": 99.08031,
+    "bbox_minlat": 8.31256,
+    "bbox_minlon": 98.446,
+    "bbox_maxlat": 9.80398,
+    "bbox_maxlon": 100.07013,
+    "area_km2": 13180.1
+  },
+  "32": {
+    "name_en": "Surin",
+    "centroid_lat": 14.88766,
+    "centroid_lon": 103.65454,
+    "bbox_minlat": 14.32671,
+    "bbox_minlon": 103.09148,
+    "bbox_maxlat": 15.48128,
+    "bbox_maxlon": 104.09177,
+    "area_km2": 8943.1
+  },
+  "63": {
+    "name_en": "Tak",
+    "centroid_lat": 16.71448,
+    "centroid_lon": 98.78961,
+    "bbox_minlat": 15.17995,
+    "bbox_minlon": 97.74238,
+    "bbox_maxlat": 17.86773,
+    "bbox_maxlon": 99.4552,
+    "area_km2": 17293.3
+  },
+  "92": {
+    "name_en": "Trang",
+    "centroid_lat": 7.55602,
+    "centroid_lon": 99.59249,
+    "bbox_minlat": 7.13186,
+    "bbox_minlon": 99.25948,
+    "bbox_maxlat": 8.00783,
+    "bbox_maxlon": 99.94856,
+    "area_km2": 4615.2
+  },
+  "23": {
+    "name_en": "Trat",
+    "centroid_lat": 12.34526,
+    "centroid_lon": 102.516,
+    "bbox_minlat": 11.563,
+    "bbox_minlon": 102.25175,
+    "bbox_maxlat": 12.75244,
+    "bbox_maxlon": 102.7876,
+    "area_km2": 2670.4
+  },
+  "34": {
+    "name_en": "Ubon Ratchathani",
+    "centroid_lat": 15.19503,
+    "centroid_lon": 105.11028,
+    "bbox_minlat": 14.23716,
+    "bbox_minlon": 104.38592,
+    "bbox_maxlat": 16.09815,
+    "bbox_maxlon": 105.63463,
+    "area_km2": 15367.9
+  },
+  "41": {
+    "name_en": "Udon Thani",
+    "centroid_lat": 17.41933,
+    "centroid_lon": 102.86934,
+    "bbox_minlat": 16.80307,
+    "bbox_minlon": 102.0178,
+    "bbox_maxlat": 18.08617,
+    "bbox_maxlon": 103.66807,
+    "area_km2": 11099.9
+  },
+  "61": {
+    "name_en": "Uthai Thani",
+    "centroid_lat": 15.34604,
+    "centroid_lon": 99.47738,
+    "bbox_minlat": 14.96203,
+    "bbox_minlon": 98.984,
+    "bbox_maxlat": 15.79826,
+    "bbox_maxlon": 100.10187,
+    "area_km2": 6638.5
+  },
+  "53": {
+    "name_en": "Uttaradit",
+    "centroid_lat": 17.75149,
+    "centroid_lon": 100.51675,
+    "bbox_minlat": 17.16517,
+    "bbox_minlon": 99.89449,
+    "bbox_maxlat": 18.38102,
+    "bbox_maxlon": 101.18449,
+    "area_km2": 7921.3
+  },
+  "95": {
+    "name_en": "Yala",
+    "centroid_lat": 6.17852,
+    "centroid_lon": 101.22868,
+    "bbox_minlat": 5.61304,
+    "bbox_minlon": 100.84104,
+    "bbox_maxlat": 6.62797,
+    "bbox_maxlon": 101.59243,
+    "area_km2": 4350.2
+  },
+  "35": {
+    "name_en": "Yasothon",
+    "centroid_lat": 15.89662,
+    "centroid_lon": 104.3366,
+    "bbox_minlat": 15.28931,
+    "bbox_minlon": 104.0016,
+    "bbox_maxlat": 16.33747,
+    "bbox_maxlon": 104.814,
+    "area_km2": 4112.8
+  }
+}

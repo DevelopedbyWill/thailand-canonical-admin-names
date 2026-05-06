@@ -1,0 +1,464 @@
+{
+  "37": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "15": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "10": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 7.9
+  },
+  "38": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "31": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "24": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 8.8
+  },
+  "18": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "36": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "22": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": true,
+    "coastline_length_km": 75.2
+  },
+  "50": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "57": {
+    "has_international_border": true,
+    "bordering_countries": "Laos|Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "20": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 78.2
+  },
+  "86": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": true,
+    "coastline_length_km": 83.6
+  },
+  "46": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "62": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "71": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "40": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "81": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 54.8
+  },
+  "52": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "51": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "42": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "16": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "58": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "44": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "49": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "26": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "73": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "48": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "30": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "60": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "80": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 80.7
+  },
+  "55": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "96": {
+    "has_international_border": true,
+    "bordering_countries": "Malaysia",
+    "is_coastal": true,
+    "coastline_length_km": 55.0
+  },
+  "39": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "43": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "12": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "13": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "94": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 88.6
+  },
+  "82": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 139.3
+  },
+  "93": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 79.3
+  },
+  "56": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "67": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "76": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": true,
+    "coastline_length_km": 55.4
+  },
+  "66": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "65": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "14": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "54": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "83": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 100.7
+  },
+  "25": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "77": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": true,
+    "coastline_length_km": 86.7
+  },
+  "85": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": true,
+    "coastline_length_km": 98.2
+  },
+  "70": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "21": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 62.5
+  },
+  "45": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "27": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "47": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "11": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 50.6
+  },
+  "74": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 37.3
+  },
+  "75": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 4.1
+  },
+  "19": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "91": {
+    "has_international_border": true,
+    "bordering_countries": "Malaysia",
+    "is_coastal": true,
+    "coastline_length_km": 124.6
+  },
+  "33": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "17": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "90": {
+    "has_international_border": true,
+    "bordering_countries": "Malaysia",
+    "is_coastal": true,
+    "coastline_length_km": 231.5
+  },
+  "64": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "72": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "84": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 129.9
+  },
+  "32": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "63": {
+    "has_international_border": true,
+    "bordering_countries": "Myanmar",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "92": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": true,
+    "coastline_length_km": 87.9
+  },
+  "23": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia",
+    "is_coastal": true,
+    "coastline_length_km": 134.4
+  },
+  "34": {
+    "has_international_border": true,
+    "bordering_countries": "Cambodia|Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "41": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "61": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "53": {
+    "has_international_border": true,
+    "bordering_countries": "Laos",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "95": {
+    "has_international_border": true,
+    "bordering_countries": "Malaysia",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  },
+  "35": {
+    "has_international_border": false,
+    "bordering_countries": "",
+    "is_coastal": false,
+    "coastline_length_km": 0
+  }
+}

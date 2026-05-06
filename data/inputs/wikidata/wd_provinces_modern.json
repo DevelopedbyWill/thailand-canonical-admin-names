@@ -1,0 +1,463 @@
+[
+  {
+    "province_qid": "Q271529",
+    "province_label": "Samut Prakan",
+    "iso": "TH-11",
+    "capital_qid": "Q13139252"
+  },
+  {
+    "province_qid": "Q242932",
+    "province_label": "Nonthaburi",
+    "iso": "TH-12",
+    "capital_qid": "Q768864"
+  },
+  {
+    "province_qid": "Q459748",
+    "province_label": "Pathum Thani",
+    "iso": "TH-13",
+    "capital_qid": "Q1365723"
+  },
+  {
+    "province_qid": "Q476222",
+    "province_label": "Phra Nakhon Si Ayutthaya",
+    "iso": "TH-14",
+    "capital_qid": "Q203370"
+  },
+  {
+    "province_qid": "Q243795",
+    "province_label": "Ang Thong",
+    "iso": "TH-15",
+    "capital_qid": "Q530241"
+  },
+  {
+    "province_qid": "Q336122",
+    "province_label": "Lopburi",
+    "iso": "TH-16",
+    "capital_qid": "Q1363891"
+  },
+  {
+    "province_qid": "Q334836",
+    "province_label": "Sing Buri",
+    "iso": "TH-17",
+    "capital_qid": "Q1210752"
+  },
+  {
+    "province_qid": "Q459759",
+    "province_label": "Chai Nat",
+    "iso": "TH-18",
+    "capital_qid": "Q1059129"
+  },
+  {
+    "province_qid": "Q337627",
+    "province_label": "Saraburi",
+    "iso": "TH-19",
+    "capital_qid": "Q686387"
+  },
+  {
+    "province_qid": "Q207068",
+    "province_label": "Chon Buri",
+    "iso": "TH-20",
+    "capital_qid": "Q138589"
+  },
+  {
+    "province_qid": "Q335221",
+    "province_label": "Rayong",
+    "iso": "TH-21",
+    "capital_qid": "Q1015123"
+  },
+  {
+    "province_qid": "Q327730",
+    "province_label": "Chanthaburi",
+    "iso": "TH-22",
+    "capital_qid": "Q1015899"
+  },
+  {
+    "province_qid": "Q241884",
+    "province_label": "Trat",
+    "iso": "TH-23",
+    "capital_qid": "Q1025964"
+  },
+  {
+    "province_qid": "Q334906",
+    "province_label": "Chachoengsao",
+    "iso": "TH-24",
+    "capital_qid": "Q1026368"
+  },
+  {
+    "province_qid": "Q321324",
+    "province_label": "Prachin Buri",
+    "iso": "TH-25",
+    "capital_qid": "Q1365804"
+  },
+  {
+    "province_qid": "Q466212",
+    "province_label": "Nakhon Nayok",
+    "iso": "TH-26",
+    "capital_qid": "Q595853"
+  },
+  {
+    "province_qid": "Q381889",
+    "province_label": "Sa Kaeo",
+    "iso": "TH-27",
+    "capital_qid": "Q1367916"
+  },
+  {
+    "province_qid": "Q271737",
+    "province_label": "Nakhon Ratchasima",
+    "iso": "TH-30",
+    "capital_qid": "Q633036"
+  },
+  {
+    "province_qid": "Q327510",
+    "province_label": "Buri Ram",
+    "iso": "TH-31",
+    "capital_qid": "Q1026460"
+  },
+  {
+    "province_qid": "Q380757",
+    "province_label": "Surin",
+    "iso": "TH-32",
+    "capital_qid": "Q1207067"
+  },
+  {
+    "province_qid": "Q380761",
+    "province_label": "Si Sa Ket",
+    "iso": "TH-33",
+    "capital_qid": "Q1207432"
+  },
+  {
+    "province_qid": "Q629024",
+    "province_label": "Ubon Ratchathani",
+    "iso": "TH-34",
+    "capital_qid": "Q132179"
+  },
+  {
+    "province_qid": "Q506598",
+    "province_label": "Yasothon",
+    "iso": "TH-35",
+    "capital_qid": "Q1017730"
+  },
+  {
+    "province_qid": "Q275377",
+    "province_label": "Chaiyaphum",
+    "iso": "TH-36",
+    "capital_qid": "Q997062"
+  },
+  {
+    "province_qid": "Q243791",
+    "province_label": "Amnat Charoen",
+    "iso": "TH-37",
+    "capital_qid": "Q473674"
+  },
+  {
+    "province_qid": "Q1001862",
+    "province_label": "Bueng Kan",
+    "iso": "TH-38",
+    "capital_qid": "Q4985499",
+    "inception": "2011-03-23T00:00:00Z"
+  },
+  {
+    "province_qid": "Q261241",
+    "province_label": "Nong Bua Lamphu",
+    "iso": "TH-39",
+    "capital_qid": "Q1207017"
+  },
+  {
+    "province_qid": "Q327533",
+    "province_label": "Khon Kaen",
+    "iso": "TH-40",
+    "capital_qid": "Q876526"
+  },
+  {
+    "province_qid": "Q380752",
+    "province_label": "Udon Thani",
+    "iso": "TH-41",
+    "capital_qid": "Q816331"
+  },
+  {
+    "province_qid": "Q275388",
+    "province_label": "Loei",
+    "iso": "TH-42",
+    "capital_qid": "Q598784"
+  },
+  {
+    "province_qid": "Q327737",
+    "province_label": "Nong Khai",
+    "iso": "TH-43",
+    "capital_qid": "Q1026138"
+  },
+  {
+    "province_qid": "Q468554",
+    "province_label": "Maha Sarakham",
+    "iso": "TH-44",
+    "capital_qid": "Q1210731"
+  },
+  {
+    "province_qid": "Q625463",
+    "province_label": "Roi Et",
+    "iso": "TH-45",
+    "capital_qid": "Q1017738"
+  },
+  {
+    "province_qid": "Q382144",
+    "province_label": "Kalasin",
+    "iso": "TH-46",
+    "capital_qid": "Q1012635"
+  },
+  {
+    "province_qid": "Q382125",
+    "province_label": "Sakon Nakhon",
+    "iso": "TH-47",
+    "capital_qid": "Q1012639"
+  },
+  {
+    "province_qid": "Q468547",
+    "province_label": "Nakhon Phanom",
+    "iso": "TH-48",
+    "capital_qid": "Q777162"
+  },
+  {
+    "province_qid": "Q335119",
+    "province_label": "Mukdahan",
+    "iso": "TH-49",
+    "capital_qid": "Q1017743",
+    "inception": "1982-09-27T00:00:00Z"
+  },
+  {
+    "province_qid": "Q233588",
+    "province_label": "Chiang Mai",
+    "iso": "TH-50",
+    "capital_qid": "Q52028",
+    "inception": "1910-01-01T00:00:00Z"
+  },
+  {
+    "province_qid": "Q240540",
+    "province_label": "Lamphun",
+    "iso": "TH-51",
+    "capital_qid": "Q1211214"
+  },
+  {
+    "province_qid": "Q240495",
+    "province_label": "Lampang",
+    "iso": "TH-52",
+    "capital_qid": "Q1012610",
+    "inception": "1892-01-01T00:00:00Z"
+  },
+  {
+    "province_qid": "Q273794",
+    "province_label": "Uttaradit",
+    "iso": "TH-53",
+    "capital_qid": "Q1359241"
+  },
+  {
+    "province_qid": "Q244652",
+    "province_label": "Phrae",
+    "iso": "TH-54",
+    "capital_qid": "Q1207145"
+  },
+  {
+    "province_qid": "Q244698",
+    "province_label": "Nan",
+    "iso": "TH-55",
+    "capital_qid": "Q1014345"
+  },
+  {
+    "province_qid": "Q244618",
+    "province_label": "Phayao",
+    "iso": "TH-56",
+    "capital_qid": "Q1207122",
+    "inception": "1977-01-01T00:00:00Z"
+  },
+  {
+    "province_qid": "Q236419",
+    "province_label": "Chiang Rai",
+    "iso": "TH-57",
+    "capital_qid": "Q856772"
+  },
+  {
+    "province_qid": "Q269270",
+    "province_label": "Mae Hong Son",
+    "iso": "TH-58",
+    "capital_qid": "Q743005"
+  },
+  {
+    "province_qid": "Q239844",
+    "province_label": "Nakhon Sawan",
+    "iso": "TH-60",
+    "capital_qid": "Q1012434"
+  },
+  {
+    "province_qid": "Q244649",
+    "province_label": "Uthai Thani",
+    "iso": "TH-61",
+    "capital_qid": "Q1332721"
+  },
+  {
+    "province_qid": "Q273807",
+    "province_label": "Kamphaeng Phet",
+    "iso": "TH-62",
+    "capital_qid": "Q2960445"
+  },
+  {
+    "province_qid": "Q275758",
+    "province_label": "Tak",
+    "iso": "TH-63",
+    "capital_qid": "Q118901"
+  },
+  {
+    "province_qid": "Q380764",
+    "province_label": "Sukhothai",
+    "iso": "TH-64",
+    "capital_qid": "Q986737"
+  },
+  {
+    "province_qid": "Q275781",
+    "province_label": "Phitsanulok",
+    "iso": "TH-65",
+    "capital_qid": "Q867579"
+  },
+  {
+    "province_qid": "Q237874",
+    "province_label": "Phichit",
+    "iso": "TH-66",
+    "capital_qid": "Q1365823"
+  },
+  {
+    "province_qid": "Q240520",
+    "province_label": "Phetchabun",
+    "iso": "TH-67",
+    "capital_qid": "Q1211346"
+  },
+  {
+    "province_qid": "Q335492",
+    "province_label": "Ratchaburi",
+    "iso": "TH-70",
+    "capital_qid": "Q1207138"
+  },
+  {
+    "province_qid": "Q275740",
+    "province_label": "Kanchanaburi",
+    "iso": "TH-71",
+    "capital_qid": "Q239121"
+  },
+  {
+    "province_qid": "Q272247",
+    "province_label": "Suphan Buri",
+    "iso": "TH-72",
+    "capital_qid": "Q978805"
+  },
+  {
+    "province_qid": "Q334841",
+    "province_label": "Nakhon Pathom",
+    "iso": "TH-73",
+    "capital_qid": "Q28044857"
+  },
+  {
+    "province_qid": "Q334686",
+    "province_label": "Samut Sakhon",
+    "iso": "TH-74",
+    "capital_qid": "Q1359220"
+  },
+  {
+    "province_qid": "Q459742",
+    "province_label": "Samut Songkhram",
+    "iso": "TH-75",
+    "capital_qid": "Q1361155"
+  },
+  {
+    "province_qid": "Q244699",
+    "province_label": "Phetchaburi",
+    "iso": "TH-76",
+    "capital_qid": "Q641383"
+  },
+  {
+    "province_qid": "Q244628",
+    "province_label": "Prachuap Khiri Khan",
+    "iso": "TH-77",
+    "capital_qid": "Q373340"
+  },
+  {
+    "province_qid": "Q244691",
+    "province_label": "Nakhon Si Thammarat",
+    "iso": "TH-80",
+    "capital_qid": "Q1012424"
+  },
+  {
+    "province_qid": "Q236769",
+    "province_label": "Krabi",
+    "iso": "TH-81",
+    "capital_qid": "Q1000353"
+  },
+  {
+    "province_qid": "Q273306",
+    "province_label": "Phang Nga",
+    "iso": "TH-82",
+    "capital_qid": "Q204587"
+  },
+  {
+    "province_qid": "Q182565",
+    "province_label": "Phuket",
+    "iso": "TH-83",
+    "capital_qid": "Q844430"
+  },
+  {
+    "province_qid": "Q240463",
+    "province_label": "Surat Thani",
+    "iso": "TH-84",
+    "capital_qid": "Q840951"
+  },
+  {
+    "province_qid": "Q236802",
+    "province_label": "Ranong",
+    "iso": "TH-85",
+    "capital_qid": "Q1012440"
+  },
+  {
+    "province_qid": "Q244695",
+    "province_label": "Chumphon",
+    "iso": "TH-86",
+    "capital_qid": "Q637500"
+  },
+  {
+    "province_qid": "Q235574",
+    "province_label": "Songkhla",
+    "iso": "TH-90",
+    "capital_qid": "Q795595"
+  },
+  {
+    "province_qid": "Q236263",
+    "province_label": "Satun",
+    "iso": "TH-91",
+    "capital_qid": "Q1365666"
+  },
+  {
+    "province_qid": "Q243805",
+    "province_label": "Trang",
+    "iso": "TH-92",
+    "capital_qid": "Q1014322"
+  },
+  {
+    "province_qid": "Q243808",
+    "province_label": "Phatthalung",
+    "iso": "TH-93",
+    "capital_qid": "Q179539"
+  },
+  {
+    "province_qid": "Q236781",
+    "province_label": "Pattani",
+    "iso": "TH-94",
+    "capital_qid": "Q1025966"
+  },
+  {
+    "province_qid": "Q242977",
+    "province_label": "Yala",
+    "iso": "TH-95",
+    "capital_qid": "Q1207083"
+  },
+  {
+    "province_qid": "Q271442",
+    "province_label": "Narathiwat",
+    "iso": "TH-96",
+    "capital_qid": "Q535747"
+  }
+]

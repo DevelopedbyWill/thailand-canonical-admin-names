@@ -1,0 +1,387 @@
+{
+  "10": {
+    "osm_type": "relation",
+    "osm_id": 92277,
+    "display_name": "กรุงเทพมหานคร, ประเทศไทย"
+  },
+  "11": {
+    "osm_type": "relation",
+    "osm_id": 1908815,
+    "display_name": "จังหวัดสมุทรปราการ, ประเทศไทย"
+  },
+  "12": {
+    "osm_type": "relation",
+    "osm_id": 1908796,
+    "display_name": "จังหวัดนนทบุรี, ประเทศไทย"
+  },
+  "13": {
+    "osm_type": "relation",
+    "osm_id": 1908797,
+    "display_name": "จังหวัดปทุมธานี, ประเทศไทย"
+  },
+  "14": {
+    "osm_type": "relation",
+    "osm_id": 1908806,
+    "display_name": "จังหวัดพระนครศรีอยุธยา, ประเทศไทย"
+  },
+  "15": {
+    "osm_type": "relation",
+    "osm_id": 1908765,
+    "display_name": "จังหวัดอ่างทอง, ประเทศไทย"
+  },
+  "16": {
+    "osm_type": "relation",
+    "osm_id": 1908784,
+    "display_name": "จังหวัดลพบุรี, ประเทศไทย"
+  },
+  "17": {
+    "osm_type": "relation",
+    "osm_id": 1908820,
+    "display_name": "จังหวัดสิงห์บุรี, ประเทศไทย"
+  },
+  "18": {
+    "osm_type": "relation",
+    "osm_id": 1908768,
+    "display_name": "จังหวัดชัยนาท, ประเทศไทย"
+  },
+  "19": {
+    "osm_type": "relation",
+    "osm_id": 1908818,
+    "display_name": "จังหวัดสระบุรี, ประเทศไทย"
+  },
+  "20": {
+    "osm_type": "relation",
+    "osm_id": 1908773,
+    "display_name": "จังหวัดชลบุรี, ประเทศไทย"
+  },
+  "21": {
+    "osm_type": "relation",
+    "osm_id": 1908812,
+    "display_name": "จังหวัดระยอง, ประเทศไทย"
+  },
+  "22": {
+    "osm_type": "relation",
+    "osm_id": 1908770,
+    "display_name": "จังหวัดจันทบุรี, ประเทศไทย"
+  },
+  "23": {
+    "osm_type": "relation",
+    "osm_id": 1908829,
+    "display_name": "จังหวัดตราด, ประเทศไทย"
+  },
+  "24": {
+    "osm_type": "relation",
+    "osm_id": 1908767,
+    "display_name": "จังหวัดฉะเชิงเทรา, ประเทศไทย"
+  },
+  "25": {
+    "osm_type": "relation",
+    "osm_id": 1908808,
+    "display_name": "จังหวัดปราจีนบุรี, ประเทศไทย"
+  },
+  "26": {
+    "osm_type": "relation",
+    "osm_id": 1908787,
+    "display_name": "จังหวัดนครนายก, ประเทศไทย"
+  },
+  "27": {
+    "osm_type": "relation",
+    "osm_id": 2934605,
+    "display_name": "จังหวัดสระแก้ว, ประเทศไทย"
+  },
+  "30": {
+    "osm_type": "relation",
+    "osm_id": 1908790,
+    "display_name": "จังหวัดนครราชสีมา, ประเทศไทย"
+  },
+  "31": {
+    "osm_type": "relation",
+    "osm_id": 1908766,
+    "display_name": "จังหวัดบุรีรัมย์, ประเทศไทย"
+  },
+  "32": {
+    "osm_type": "relation",
+    "osm_id": 1908826,
+    "display_name": "จังหวัดสุรินทร์, ประเทศไทย"
+  },
+  "33": {
+    "osm_type": "relation",
+    "osm_id": 1908821,
+    "display_name": "จังหวัดศรีสะเกษ, ประเทศไทย"
+  },
+  "34": {
+    "osm_type": "relation",
+    "osm_id": 1908830,
+    "display_name": "จังหวัดอุบลราชธานี, ประเทศไทย"
+  },
+  "35": {
+    "osm_type": "relation",
+    "osm_id": 1908873,
+    "display_name": "จังหวัดยโสธร, ประเทศไทย"
+  },
+  "36": {
+    "osm_type": "relation",
+    "osm_id": 1908769,
+    "display_name": "จังหวัดชัยภูมิ, ประเทศไทย"
+  },
+  "37": {
+    "osm_type": "relation",
+    "osm_id": 2746948,
+    "display_name": "จังหวัดอำนาจเจริญ, ประเทศไทย"
+  },
+  "38": {
+    "osm_type": "relation",
+    "osm_id": 2934602,
+    "display_name": "จังหวัดบึงกาฬ, ประเทศไทย"
+  },
+  "39": {
+    "osm_type": "relation",
+    "osm_id": 1925819,
+    "display_name": "จังหวัดหนองบัวลำภู, ประเทศไทย"
+  },
+  "40": {
+    "osm_type": "relation",
+    "osm_id": 1908778,
+    "display_name": "จังหวัดขอนแก่น, ประเทศไทย"
+  },
+  "41": {
+    "osm_type": "relation",
+    "osm_id": 1908831,
+    "display_name": "จังหวัดอุดรธานี, ประเทศไทย"
+  },
+  "42": {
+    "osm_type": "relation",
+    "osm_id": 1908783,
+    "display_name": "จังหวัดเลย, ประเทศไทย"
+  },
+  "43": {
+    "osm_type": "relation",
+    "osm_id": 1908795,
+    "display_name": "จังหวัดหนองคาย, ประเทศไทย"
+  },
+  "44": {
+    "osm_type": "relation",
+    "osm_id": 1908786,
+    "display_name": "จังหวัดมหาสารคาม, ประเทศไทย"
+  },
+  "45": {
+    "osm_type": "relation",
+    "osm_id": 1908813,
+    "display_name": "จังหวัดร้อยเอ็ด, ประเทศไทย"
+  },
+  "46": {
+    "osm_type": "relation",
+    "osm_id": 1908775,
+    "display_name": "จังหวัดกาฬสินธุ์, ประเทศไทย"
+  },
+  "47": {
+    "osm_type": "relation",
+    "osm_id": 1908814,
+    "display_name": "จังหวัดสกลนคร, ประเทศไทย"
+  },
+  "48": {
+    "osm_type": "relation",
+    "osm_id": 1908789,
+    "display_name": "จังหวัดนครพนม, ประเทศไทย"
+  },
+  "49": {
+    "osm_type": "relation",
+    "osm_id": 2934603,
+    "display_name": "จังหวัดมุกดาหาร, ประเทศไทย"
+  },
+  "50": {
+    "osm_type": "relation",
+    "osm_id": 1908771,
+    "display_name": "จังหวัดเชียงใหม่, ประเทศไทย"
+  },
+  "51": {
+    "osm_type": "relation",
+    "osm_id": 1908782,
+    "display_name": "จังหวัดลำพูน, ประเทศไทย"
+  },
+  "52": {
+    "osm_type": "relation",
+    "osm_id": 1908781,
+    "display_name": "จังหวัดลำปาง, ประเทศไทย"
+  },
+  "53": {
+    "osm_type": "relation",
+    "osm_id": 1908832,
+    "display_name": "จังหวัดอุตรดิตถ์, ประเทศไทย"
+  },
+  "54": {
+    "osm_type": "relation",
+    "osm_id": 1908807,
+    "display_name": "จังหวัดแพร่, ประเทศไทย"
+  },
+  "55": {
+    "osm_type": "relation",
+    "osm_id": 1908793,
+    "display_name": "จังหวัดน่าน, ประเทศไทย"
+  },
+  "56": {
+    "osm_type": "relation",
+    "osm_id": 1908801,
+    "display_name": "จังหวัดพะเยา, ประเทศไทย"
+  },
+  "57": {
+    "osm_type": "relation",
+    "osm_id": 1908772,
+    "display_name": "จังหวัดเชียงราย, ประเทศไทย"
+  },
+  "58": {
+    "osm_type": "relation",
+    "osm_id": 1908785,
+    "display_name": "จังหวัดแม่ฮ่องสอน, ประเทศไทย"
+  },
+  "60": {
+    "osm_type": "relation",
+    "osm_id": 1908791,
+    "display_name": "จังหวัดนครสวรรค์, ประเทศไทย"
+  },
+  "61": {
+    "osm_type": "relation",
+    "osm_id": 2934606,
+    "display_name": "จังหวัดอุทัยธานี, ประเทศไทย"
+  },
+  "62": {
+    "osm_type": "relation",
+    "osm_id": 1908776,
+    "display_name": "จังหวัดกำแพงเพชร, ประเทศไทย"
+  },
+  "63": {
+    "osm_type": "relation",
+    "osm_id": 1908827,
+    "display_name": "จังหวัดตาก, ประเทศไทย"
+  },
+  "64": {
+    "osm_type": "relation",
+    "osm_id": 1908823,
+    "display_name": "จังหวัดสุโขทัย, ประเทศไทย"
+  },
+  "65": {
+    "osm_type": "relation",
+    "osm_id": 1908805,
+    "display_name": "จังหวัดพิษณุโลก, ประเทศไทย"
+  },
+  "66": {
+    "osm_type": "relation",
+    "osm_id": 1908804,
+    "display_name": "จังหวัดพิจิตร, ประเทศไทย"
+  },
+  "67": {
+    "osm_type": "relation",
+    "osm_id": 1908802,
+    "display_name": "จังหวัดเพชรบูรณ์, ประเทศไทย"
+  },
+  "70": {
+    "osm_type": "relation",
+    "osm_id": 1908811,
+    "display_name": "จังหวัดราชบุรี, ประเทศไทย"
+  },
+  "71": {
+    "osm_type": "relation",
+    "osm_id": 1908777,
+    "display_name": "จังหวัดกาญจนบุรี, ประเทศไทย"
+  },
+  "72": {
+    "osm_type": "relation",
+    "osm_id": 1908824,
+    "display_name": "จังหวัดสุพรรณบุรี, ประเทศไทย"
+  },
+  "73": {
+    "osm_type": "relation",
+    "osm_id": 1908788,
+    "display_name": "จังหวัดนครปฐม, ประเทศไทย"
+  },
+  "74": {
+    "osm_type": "relation",
+    "osm_id": 1908816,
+    "display_name": "จังหวัดสมุทรสาคร, ประเทศไทย"
+  },
+  "75": {
+    "osm_type": "relation",
+    "osm_id": 1908817,
+    "display_name": "จังหวัดสมุทรสงคราม, ประเทศไทย"
+  },
+  "76": {
+    "osm_type": "relation",
+    "osm_id": 1908803,
+    "display_name": "จังหวัดเพชรบุรี, ประเทศไทย"
+  },
+  "77": {
+    "osm_type": "relation",
+    "osm_id": 1908809,
+    "display_name": "จังหวัดประจวบคีรีขันธ์, ประเทศไทย"
+  },
+  "80": {
+    "osm_type": "relation",
+    "osm_id": 1908792,
+    "display_name": "จังหวัดนครศรีธรรมราช, ประเทศไทย"
+  },
+  "81": {
+    "osm_type": "relation",
+    "osm_id": 1908779,
+    "display_name": "จังหวัดกระบี่, ประเทศไทย"
+  },
+  "82": {
+    "osm_type": "node",
+    "osm_id": 6160461376,
+    "display_name": "Volunteer Teacher Thailand, ซอยบางหลาโอน, บ้านบางหลาโอน, คึกคัก, อำเภอตะกั่วป่า, จังหวัดพังงา, 82220"
+  },
+  "83": {
+    "osm_type": "relation",
+    "osm_id": 2934604,
+    "display_name": "จังหวัดภูเก็ต, ประเทศไทย"
+  },
+  "84": {
+    "osm_type": "relation",
+    "osm_id": 1908825,
+    "display_name": "จังหวัดสุราษฎร์ธานี, ประเทศไทย"
+  },
+  "85": {
+    "osm_type": "relation",
+    "osm_id": 1908810,
+    "display_name": "จังหวัดระนอง, ประเทศไทย"
+  },
+  "86": {
+    "osm_type": "relation",
+    "osm_id": 1908774,
+    "display_name": "จังหวัดชุมพร, ประเทศไทย"
+  },
+  "90": {
+    "osm_type": "relation",
+    "osm_id": 1908822,
+    "display_name": "จังหวัดสงขลา, ประเทศไทย"
+  },
+  "91": {
+    "osm_type": "relation",
+    "osm_id": 1908819,
+    "display_name": "จังหวัดสตูล, ประเทศไทย"
+  },
+  "92": {
+    "osm_type": "relation",
+    "osm_id": 1908828,
+    "display_name": "จังหวัดตรัง, ประเทศไทย"
+  },
+  "93": {
+    "osm_type": "relation",
+    "osm_id": 1908800,
+    "display_name": "จังหวัดพัทลุง, ประเทศไทย"
+  },
+  "94": {
+    "osm_type": "relation",
+    "osm_id": 1908798,
+    "display_name": "จังหวัดปัตตานี, ประเทศไทย"
+  },
+  "95": {
+    "osm_type": "relation",
+    "osm_id": 1908872,
+    "display_name": "จังหวัดยะลา, ประเทศไทย"
+  },
+  "96": {
+    "osm_type": "relation",
+    "osm_id": 1908794,
+    "display_name": "จังหวัดนราธิวาส, ประเทศไทย"
+  }
+}
