@@ -2,6 +2,15 @@
 
 References follow APA 7 conventions. Software, datasets, government instruments, and reference websites are listed alphabetically. Entries with hanging-indent rendering will appear correctly in the typeset PDF; this markdown source uses single-paragraph entries for clarity.
 
+## How to cite this artifact
+
+Reynolds, W. J. (2026). *Thailand Canonical Administrative-Names Reference* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20049930
+
+The DOI above is the **concept DOI** — it always resolves to the latest published version. Cite a version-specific DOI (visible on each Zenodo deposit page under "Versions") when reproducibility against a particular release matters.
+
+## External references
+
+
 Chitchumnong, P. (n.d.). *mapthai: An R package storing lightweight polygon data of Thailand* [R package]. https://github.com/piyayut-ch/mapthai
 
 Department of Provincial Administration. (n.d.). *Provincial English-name release*. Ministry of Interior, Thailand. https://www.dopa.go.th/

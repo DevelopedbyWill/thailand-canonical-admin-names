@@ -1,27 +1,29 @@
 # Thailand Canonical Administrative-Names Reference
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20049931.svg)](https://doi.org/10.5281/zenodo.20049931)
+[![DOI](https://zenodo.org/badge/1230711905.svg)](https://doi.org/10.5281/zenodo.20049930)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT (code)](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 
 > Canonical English and Thai administrative names for Thailand at all three levels (77 provinces, 928 districts, 7,436 subdistricts), with TIS-1099 codes, ISO 3166-2 codes, alternates, capitals, regions, verified establishment years, polygon-derived geographic columns, and a documented override registry with a per-row audit trail. Published with a 36-page methodology PDF and bundled GeoJSON polygons.
 
-**Status:** v1.0.0 released ([Zenodo DOI](https://doi.org/10.5281/zenodo.20049931)).
+**Status:** v1.0.1 released ([Zenodo DOI](https://doi.org/10.5281/zenodo.20049930)).
 **Maintainer:** William J. Reynolds ([ORCID: 0009-0005-1217-7465](https://orcid.org/0009-0005-1217-7465))
 **License:** CC BY 4.0 on the data and methodology. MIT on the build code.
 
 ## Citation
 
 ```
-Reynolds, W. J. (2026). Thailand Canonical Administrative-Names Reference (v1.0.0)
-[Data set]. Zenodo. https://doi.org/10.5281/zenodo.20049931
+Reynolds, W. J. (2026). Thailand Canonical Administrative-Names Reference
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.20049930
 ```
+
+The DOI above is the **concept DOI** — it always resolves to the latest published version. Cite a specific version-DOI (visible on each Zenodo deposit page under "Versions") when reproducibility against a specific release matters.
 
 ---
 
 ## What this is
 
-A defended canonical reference for Thai administrative-division names and codes. The Thai data ecosystem has multiple high-quality MIT-licensed name lists (`thailand-geography-data`, `kongvut/thai-province-data`, `GeoThai/data`), but none documents:
+A defended canonical reference for Thai administrative-division names and codes. The Thai data ecosystem has multiple high-quality MIT-licensed name lists ([`thailand-geography-data`](https://github.com/thailand-geography-data/thailand-geography-json), [`kongvut/thai-province-data`](https://github.com/kongvut/thai-province-data), [`GeoThai/data`](https://github.com/GeoThai/data)), but none documents:
 
 - The source-authority order behind chosen English spellings
 - An audit trail per override
@@ -141,3 +143,10 @@ Found a spelling that should be reconsidered, an alternate to add, or a boundary
 
 ## See also
 
+- [Methodology PDF](methodology/build/methodology-v1.0.0.pdf) — full 36-page document covering 18 sections from input sources through limitations, with worked examples for the override rule (Lopburi / Loburi), capital normalization (Phrae), cross-system identifier resolution (Phuket), and the community-correction flow.
+- [NOTICE.md](NOTICE.md) — per-file license attribution and upstream-source acknowledgments.
+- [CHANGELOG.md](CHANGELOG.md) — release history and what changed between versions.
+- [CONTRIBUTING.md](CONTRIBUTING.md) — issue templates, pull-request format, and corrections workflow.
+- [Zenodo deposit](https://doi.org/10.5281/zenodo.20049931) — long-term archival copy with the citable DOI.
+- [Royal Thai General System of Transcription (RTGS)](http://www.royin.go.th/) — the romanization standard the artifact follows by default.
+- [HDX Royal Thai Survey Department dataset](https://data.humdata.org/dataset/cod-ab-tha) — the authoritative Thai-government polygon source. Linked rather than bundled because the smallest distribution exceeds practical repo size at 175 MB compressed.

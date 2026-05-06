@@ -10,7 +10,17 @@ All notable changes to the Thailand Canonical Administrative-Names Reference are
 - ADM2 and ADM3 cross-source spelling cross-check. v1.0 ships single-source provenance from `thailand-geography-data` for the lower administrative levels; v1.1 introduces parallel cross-checking against kongvut and GeoThai at those levels.
 - Wikipedia article URLs at ADM2 (where they exist).
 
-## [1.0.0] — Unreleased (target Q3 2026)
+## [1.0.1] — 2026-05-06
+
+### Patch — documentation only, no data or code changes
+
+- Methodology PDF: added Zenodo concept-DOI (`10.5281/zenodo.20049930`) to the title-page date line and to the citation block in Section 18 ("How to cite this artifact"). Updated PDF metadata (pdftitle, pdfauthor, pdfsubject, pdfkeywords).
+- README: switched the DOI badge from version-pinned (`zenodo.20049931`) to concept-DOI (`zenodo.20049930`) so future versions inherit the badge automatically.
+- README: populated the previously empty "See also" section with links to methodology PDF, NOTICE, CHANGELOG, CONTRIBUTING, the Zenodo deposit, RTGS, and the HDX RTSD dataset.
+
+Data, validation outputs, and build code are byte-identical to v1.0.0.
+
+## [1.0.0] — 2026-05-06
 
 ### Initial release
 

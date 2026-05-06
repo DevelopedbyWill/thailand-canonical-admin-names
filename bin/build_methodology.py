@@ -33,7 +33,7 @@ SECTIONS = METH / "sections"
 TEMPLATE = METH / "methodology.md"
 BUILD = METH / "build"
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 
 def strip_top_heading(text: str) -> str:

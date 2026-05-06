@@ -4,7 +4,10 @@ subtitle: "Methodology"
 author:
   - "William J. Reynolds"
   - "ORCID: 0009-0005-1217-7465"
-date: "v1.0.0 — Q3 2026 (target)"
+date: "v1.0.1 — 6 May 2026 — DOI: 10.5281/zenodo.20049930"
+header-includes:
+  - \usepackage{hyperref}
+  - \hypersetup{pdftitle={Thailand Canonical Administrative-Names Reference}, pdfauthor={William J. Reynolds}, pdfsubject={Methodology}, pdfkeywords={Thailand, administrative divisions, TIS-1099, ISO 3166-2, RTGS, gazetteer}}
 abstract: |
   This document specifies the methodology behind the Thailand Canonical Administrative-Names Reference, a CC BY 4.0 dataset of Thailand's administrative divisions at all three levels (77 provinces, 928 districts, 7,436 subdistricts). The artifact ships cross-system identifiers, normalized English and Thai names, an override registry with audit trail, and computed geographic columns. It composites four MIT-licensed upstream Thai-province repositories with reconciliation rules, override resolution, and validation against published government totals. Bundled polygon geometries (GeoJSON at all three levels) accompany the tabular outputs. The release is intended as community infrastructure for the broader Thai data-engineering and academic-research community.
 toc: true
@@ -627,6 +630,15 @@ The following are deliberately out of scope at v1.0 and have no firm timeline fo
 # 17. References
 
 References follow APA 7 conventions. Software, datasets, government instruments, and reference websites are listed alphabetically. Entries with hanging-indent rendering will appear correctly in the typeset PDF; this markdown source uses single-paragraph entries for clarity.
+
+## How to cite this artifact
+
+Reynolds, W. J. (2026). *Thailand Canonical Administrative-Names Reference* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20049930
+
+The DOI above is the **concept DOI** — it always resolves to the latest published version. Cite a version-specific DOI (visible on each Zenodo deposit page under "Versions") when reproducibility against a particular release matters.
+
+## External references
+
 
 Chitchumnong, P. (n.d.). *mapthai: An R package storing lightweight polygon data of Thailand* [R package]. https://github.com/piyayut-ch/mapthai
 
