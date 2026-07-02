@@ -60,7 +60,7 @@ def load_overrides():
     overrides = {}
     if not OVERRIDES.exists():
         return overrides
-    with open(OVERRIDES) as f:
+    with open(OVERRIDES, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             try:
@@ -73,7 +73,7 @@ def load_overrides():
 
 def build_base_table():
     """Project thailand-geography-data provinces to the v0.1.0 schema."""
-    with open(INPUTS / "thailand-geography-data" / "provinces.json") as f:
+    with open(INPUTS / "thailand-geography-data" / "provinces.json", encoding="utf-8") as f:
         upstream = json.load(f)
 
     overrides = load_overrides()

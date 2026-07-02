@@ -37,7 +37,7 @@ def info(msg): return ("INFO", msg)
 
 
 def load(p):
-    with open(p) as f:
+    with open(p, encoding="utf-8") as f:
         return list(csv.DictReader(f))
 
 

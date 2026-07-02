@@ -32,7 +32,7 @@ spec.loader.exec_module(validator)
 
 
 def load_rows():
-    with open(TABLE) as f:
+    with open(TABLE, encoding="utf-8") as f:
         return list(csv.DictReader(f))
 
 
@@ -392,7 +392,7 @@ class TestColumnCoverage(unittest.TestCase):
 
     def test_every_column_has_a_validator_reference(self):
         """Read the validator source and assert every expected column appears in it."""
-        with open(ROOT / "bin" / "validate_v0_3_0.py") as f:
+        with open(ROOT / "bin" / "validate_v0_3_0.py", encoding="utf-8") as f:
             src = f.read()
         for col in self.EXPECTED_COLUMNS:
             with self.subTest(column=col):

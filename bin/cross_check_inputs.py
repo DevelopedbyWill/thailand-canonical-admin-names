@@ -32,13 +32,13 @@ OUTPUT = ROOT / "data" / "v0.1.0" / "cross_check_report.md"
 
 def load_sources():
     """Return a dict {source_name: {thai_script: english_name}} for all four inputs."""
-    with open(INPUTS / "thailand-geography-data" / "provinces.json") as f:
+    with open(INPUTS / "thailand-geography-data" / "provinces.json", encoding="utf-8") as f:
         tgd = json.load(f)
-    with open(INPUTS / "kongvut" / "province.json") as f:
+    with open(INPUTS / "kongvut" / "province.json", encoding="utf-8") as f:
         kongvut = json.load(f)
-    with open(INPUTS / "geothai" / "provinces_v1.json") as f:
+    with open(INPUTS / "geothai" / "provinces_v1.json", encoding="utf-8") as f:
         gth1 = json.load(f)
-    with open(INPUTS / "geothai" / "provinces_v2.json") as f:
+    with open(INPUTS / "geothai" / "provinces_v2.json", encoding="utf-8") as f:
         gth2 = json.load(f)
 
     return {

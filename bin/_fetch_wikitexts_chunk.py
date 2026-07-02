@@ -3,7 +3,7 @@ Internal helper: fetch one chunk of Wikipedia wikitexts and append to cache.
 
 Designed for chunked execution under tight per-call timeouts. Each invocation
 processes up to CHUNK_SIZE missing titles, persists progress to
-`/tmp/wikipedia_wikitexts.json.gz` after each fetch, then exits.
+`.cache/wikipedia_wikitexts.json.gz` (repo-local, gitignored) after each fetch, then exits.
 
 Usage:
     python3 bin/_fetch_wikitexts_chunk.py [chunk_size]
@@ -22,7 +22,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "v1.0.0" / "thailand-adm1-provinces-v1.0.0.csv"
-CACHE_PATH = Path("/tmp/wikipedia_wikitexts.json.gz")
+CACHE_PATH = ROOT / ".cache" / "wikipedia_wikitexts.json.gz"
 
 USER_AGENT = (
     "ThailandCanonicalNamesReference/1.0 "
@@ -73,7 +73,7 @@ def main() -> int:
         with gzip.open(CACHE_PATH, "rt", encoding="utf-8") as f:
             cache = json.load(f)
 
-    with CSV_PATH.open() as f:
+    with CSV_PATH.open(encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     titles = [article_title(r["wikipedia_article_url"]) for r in rows]
     missing = [t for t in titles if t not in cache]
@@ -84,6 +84,7 @@ def main() -> int:
         return 0
 
     todo = missing[:chunk_size]
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     for i, title in enumerate(todo, 1):
         print(f"  [{i}/{len(todo)}] {title}", flush=True)
         wt = fetch_wikitext(title)

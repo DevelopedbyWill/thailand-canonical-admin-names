@@ -43,8 +43,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "v1.0.0" / "thailand-adm1-provinces-v1.0.0.csv"
-CACHE_PATH = Path("/tmp/wikipedia_wikitexts.json.gz")
-ATT_CACHE = Path("/tmp/alternates_attestation.json")
+CACHE_PATH = ROOT / ".cache" / "wikipedia_wikitexts.json.gz"
+ATT_CACHE = ROOT / ".cache" / "alternates_attestation.json"
 REPORT_PATH = ROOT / "data" / "v1.0.0" / "alternates_wikipedia_attestation_report.md"
 
 USER_AGENT = (
@@ -149,7 +149,7 @@ def find_in_wikitext(wikitext: str, alt: str) -> bool:
 
 
 def main() -> int:
-    with CSV_PATH.open() as f:
+    with CSV_PATH.open(encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
     # Load wikitext cache (built by verify_wikipedia_infobox_areas.py)
@@ -161,7 +161,7 @@ def main() -> int:
     # Load any prior attestation cache so reruns are cheap
     cache: dict[str, dict] = {}
     if ATT_CACHE.exists():
-        cache = json.loads(ATT_CACHE.read_text())
+        cache = json.loads(ATT_CACHE.read_text(encoding="utf-8"))
 
     records = []
     for row in rows:
@@ -229,6 +229,7 @@ def main() -> int:
                 "method": method,
             }
             cache[cache_key] = rec
+            ATT_CACHE.parent.mkdir(parents=True, exist_ok=True)
             ATT_CACHE.write_text(json.dumps(cache, ensure_ascii=False))
             records.append(rec)
 
