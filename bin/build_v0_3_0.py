@@ -134,14 +134,14 @@ def normalize_capital_to_province(capital, province_name):
 
 
 def load_json(path):
-    with open(path) as f:
+    with open(path, encoding="utf-8") as f:
         return json.load(f)
 
 
 def load_overrides():
     overrides = {}
     if OVERRIDES.exists():
-        with open(OVERRIDES) as f:
+        with open(OVERRIDES, encoding="utf-8") as f:
             for row in csv.DictReader(f):
                 try:
                     code = int(row["tis1099_code"])
@@ -210,7 +210,7 @@ def build():
     predecessor_by_tis = {}
     hm_path = ROOT / "data" / "historical_mappings.csv"
     if hm_path.exists():
-        with open(hm_path) as f:
+        with open(hm_path, encoding="utf-8") as f:
             for row in csv.DictReader(f):
                 if row.get("event_type") != "province_split":
                     continue
@@ -234,7 +234,7 @@ def build():
     curated_years = {}
     cy_path = ROOT / "data" / "established_years.csv"
     if cy_path.exists():
-        with open(cy_path) as f:
+        with open(cy_path, encoding="utf-8") as f:
             for row in csv.DictReader(f):
                 if row.get("verification_status") != "CONFIRMED":
                     continue

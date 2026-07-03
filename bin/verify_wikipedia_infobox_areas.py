@@ -20,7 +20,7 @@ Usage:
 
 Reads:
     data/v1.0.0/thailand-adm1-provinces-v1.0.0.csv
-    /tmp/wikipedia_wikitexts.json.gz  (created on first run)
+    .cache/wikipedia_wikitexts.json.gz  (repo-local, gitignored; created on first run)
 
 Writes:
     data/v1.0.0/wikipedia_infobox_verification_report.md
@@ -41,7 +41,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "v1.0.0" / "thailand-adm1-provinces-v1.0.0.csv"
-CACHE_PATH = Path("/tmp/wikipedia_wikitexts.json.gz")
+CACHE_PATH = ROOT / ".cache" / "wikipedia_wikitexts.json.gz"
 REPORT_PATH = ROOT / "data" / "v1.0.0" / "wikipedia_infobox_verification_report.md"
 
 USER_AGENT = (
@@ -54,7 +54,7 @@ CENTROID_DISTANCE_THRESHOLD_KM = 30.0
 
 
 def load_csv() -> list[dict]:
-    with CSV_PATH.open() as f:
+    with CSV_PATH.open(encoding="utf-8") as f:
         return list(csv.DictReader(f))
 
 
@@ -114,6 +114,7 @@ def load_or_fetch_wikitexts(rows: list[dict]) -> dict[str, str]:
                 cache[title] = wt
             time.sleep(0.5)  # be nice to Wikipedia
         # save cache
+        CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
         with gzip.open(CACHE_PATH, "wt", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False)
         print(f"saved {len(cache)} wikitexts to {CACHE_PATH}")

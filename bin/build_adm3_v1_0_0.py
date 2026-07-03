@@ -43,12 +43,12 @@ SCHEMA = [
 def main():
     OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(INPUTS / "thailand-geography-data" / "subdistricts.json") as f:
+    with open(INPUTS / "thailand-geography-data" / "subdistricts.json", encoding="utf-8") as f:
         subdistricts = json.load(f)
     print(f"Loaded {len(subdistricts)} ADM3 rows from thailand-geography-data")
 
     # Polygon source
-    with open(INPUTS / "mapthai" / "th_adm3.geojson") as f:
+    with open(INPUTS / "mapthai" / "th_adm3.geojson", encoding="utf-8") as f:
         gj = json.load(f)
     polys_by_pcode = {}
     for feat in gj["features"]:

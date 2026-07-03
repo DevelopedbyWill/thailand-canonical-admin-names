@@ -69,12 +69,12 @@ PAT_BOOL = re.compile(r"^(true|false)$")
 # Helpers
 # ---------------------------------------------------------------------------
 def load_table():
-    with open(TABLE) as f:
+    with open(TABLE, encoding="utf-8") as f:
         return list(csv.DictReader(f))
 
 
 def load_json(p):
-    with open(p) as f:
+    with open(p, encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -367,7 +367,7 @@ def check_18_established_year(rows):
     cy_path = ROOT / "data" / "established_years.csv"
     confirmed = {}
     if cy_path.exists():
-        with open(cy_path) as f:
+        with open(cy_path, encoding="utf-8") as f:
             for cr in csv.DictReader(f):
                 if cr.get("verification_status") == "CONFIRMED":
                     try:
@@ -400,7 +400,7 @@ def check_19_predecessor(rows):
     hm_path = ROOT / "data" / "historical_mappings.csv"
     hm_pred = {}
     if hm_path.exists():
-        with open(hm_path) as f:
+        with open(hm_path, encoding="utf-8") as f:
             for hr in csv.DictReader(f):
                 if hr.get("event_type") != "province_split": continue
                 try:
@@ -702,7 +702,7 @@ def check_34_cross_check_against_inputs(rows):
     overrides_path = ROOT / "data" / "overrides.csv"
     overrides = set()
     if overrides_path.exists():
-        with open(overrides_path) as f:
+        with open(overrides_path, encoding="utf-8") as f:
             for orow in csv.DictReader(f):
                 try:
                     overrides.add(int(orow["tis1099_code"]))

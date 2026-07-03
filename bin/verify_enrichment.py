@@ -116,12 +116,12 @@ ANCHOR_VALUES = {
 
 
 def load_table():
-    with open(ADM1_CSV) as f:
+    with open(ADM1_CSV, encoding="utf-8") as f:
         return {int(r["tis1099_code"]): r for r in csv.DictReader(f)}
 
 
 def load_json(p):
-    with open(p) as f:
+    with open(p, encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -173,7 +173,7 @@ def verify_identifiers_roundtrip(table):
     geonames_path = INPUTS / "geonames" / "admin1CodesASCII.txt"
     if geonames_path.exists():
         gn_by_fips = {}
-        with open(geonames_path) as f:
+        with open(geonames_path, encoding="utf-8") as f:
             for line in f:
                 parts = line.rstrip("\n").split("\t")
                 if len(parts) >= 4 and parts[0].startswith("TH."):
@@ -410,7 +410,7 @@ def audit_override_registry(table):
     overrides_path = ROOT / "data" / "overrides.csv"
     overrides = {}
     if overrides_path.exists():
-        with open(overrides_path) as f:
+        with open(overrides_path, encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 try:
                     overrides[int(r["tis1099_code"])] = r["chosen_spelling"]
@@ -469,7 +469,7 @@ def verify_established_years(table):
     confirmed = {}
     partial = {}
     if cy_path.exists():
-        with open(cy_path) as f:
+        with open(cy_path, encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 try:
                     tis = int(r["tis1099_code"])

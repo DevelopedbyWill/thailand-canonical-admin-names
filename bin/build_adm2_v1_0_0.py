@@ -60,12 +60,12 @@ def main():
     OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
 
     # Load primary source: districts from thailand-geography-data
-    with open(INPUTS / "thailand-geography-data" / "districts.json") as f:
+    with open(INPUTS / "thailand-geography-data" / "districts.json", encoding="utf-8") as f:
         districts = json.load(f)
     print(f"Loaded {len(districts)} ADM2 rows from thailand-geography-data")
 
     # Load subdistricts to compute num_tambon and postal prefix per district
-    with open(INPUTS / "thailand-geography-data" / "subdistricts.json") as f:
+    with open(INPUTS / "thailand-geography-data" / "subdistricts.json", encoding="utf-8") as f:
         subdistricts = json.load(f)
     print(f"Loaded {len(subdistricts)} ADM3 rows for tambon-count and postal-prefix derivation")
 
@@ -81,7 +81,7 @@ def main():
             postal_prefixes_by_district[d].add(str(pc)[:4])  # 4-digit prefix at ADM2
 
     # Load polygon source
-    with open(INPUTS / "mapthai" / "th_adm2.geojson") as f:
+    with open(INPUTS / "mapthai" / "th_adm2.geojson", encoding="utf-8") as f:
         gj = json.load(f)
     polys_by_pcode = {}
     for feat in gj["features"]:
